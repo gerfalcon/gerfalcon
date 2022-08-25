@@ -8,11 +8,15 @@ After I graduated as an electrical engineer, I have gained substantial experienc
 I am giving lectures on Android programming and wireless technologies as a teaching assistant while also taking part in lab courses as a demonstrator. I am also actively working on the curriculum and organisation of the first Flutter class in Hungary. 🇭🇺 (We had 3 semester with more than 3x120 students)
 
 #### 🗣️ Meetups & Seminars
+- [Say Hi to Flutter 3 - 05/2022](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
+I held a presentation at the recent online meetup, "HELLO FLUTTER", which was dedicated entirely to the framework.
+‍My presentation was titled "Say Hi to Flutter 3", during which I reviewed the content of the recently announced Flutter 3.0 together with the audience, while also analysing what the future holds for this increasingly more popular framework. 📈
+
 - [How to make your Flutter app accessible - 12/2021](https://youtu.be/VGfzT_AuVPI?t=3240)
 This is a short talk I presented at the December 2020 installment of the HWSW free! meetup series (online) in Hungarian.
 Slides are available [here](https://speakerdeck.com/gerfalcon/how-to-make-your-flutter-app-accessible).
 
-- [Hey Google, Flutter Web or Angular?  - 08/2021 ](https://youtu.be/MQ7wdwjABHs?t=1787)With my web developer colleague, we compared the Flutter Web and Angular frameworks based on several aspects including Navigation, SEO, Responsive UI, or State Management.
+- [Hey Google, Flutter Web or Angular? - 08/2021](https://youtu.be/MQ7wdwjABHs?t=1787)With my web developer colleague, we compared the Flutter Web and Angular frameworks based on several aspects including Navigation, SEO, Responsive UI, or State Management.
 Our presentation was hosted HWSW free! meetup series (online) in Hungarian and our talk was recorded and it's available on the HWSW YT channel.
 
 - [The future of Flutter - 08/2021](https://youtu.be/YV5csJu-8qk)
