@@ -14,7 +14,7 @@ After I graduated as an electrical engineer, I have gained substantial experienc
 
 ### 👨‍🏫  Knowledge sharing
 #### 🎓 University 
-I am giving lectures on Android programming and wireless technologies as a teaching assistant while also taking part in lab courses as a demonstrator. I am also actively working on the curriculum and organisation of the first Flutter class in Hungary. 🇭🇺 (We had 3 semester with more than 3x120 students)
+I am giving lectures on Android programming and wireless technologies as a teaching assistant while also taking part in lab courses as a demonstrator. I am also actively working on the **curriculum and organisation of the first Flutter uni class in Hungary.** 🇭🇺  (We had 3 semester with more than 3x120 students)
 
 #### 🗣️ Meetups & Seminars
 - [Say Hi to Flutter 3 - 05/2022](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
