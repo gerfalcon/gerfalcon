@@ -35,7 +35,7 @@ I am giving lectures on Android programming and wireless technologies as a teach
 #### 🗣️ Meetups & Seminars
 - [Say Hi to Flutter 3 - 05/2022](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
 I held a presentation at the recent online meetup, "HELLO FLUTTER", which was dedicated entirely to the framework.
-‍My presentation was titled "Say Hi to Flutter 3", during which I reviewed the content of the recently announced Flutter 3.0 together with the audience, while also analysing what the future holds for this increasingly more popular framework. 📈
+‍My presentation was titled "Say Hi to Flutter 3", during which I reviewed the content of the recently announced Flutter 3.0 together with the audience, while also analysing what the future holds for this increasingly more popular framework. 📈 Slides are available [here](https://speakerdeck.com/gerfalcon/csongor-vogel-flutter-3-0).
 
 - [How to make your Flutter app accessible - 12/2021](https://youtu.be/VGfzT_AuVPI?t=3240)
 This is a short talk I presented at the December 2020 installment of the HWSW free! meetup series (online) in Hungarian.
