@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Csongor🐦</h1>
 <h3 align="center">A 🇭🇺Hungarian 💙Flutter enthusiast from 🇦🇪Dubai</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gerfalcon&label=Profile%20views&color=0e75b6&style=flat" alt="gerfalcon" /> </p>
-
-<p align="left"> <a href="https://twitter.com/gerfalconvogel" target="blank"><img src="https://img.shields.io/twitter/follow/gerfalconvogel?logo=twitter&style=for-the-badge" alt="gerfalconvogel"/></a> </p>
-
-
-
 <h3 align="left">📫 Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/gerfalconvogel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gerfalconvogel" height="30" width="40" /></a>
@@ -14,25 +8,20 @@
 <a href="https://instagram.com/gerfalcon_vogel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gerfalcon_vogel" height="30" width="40" /></a>
 </p>
 
+##### gerfalcon.vogel@gmail.com
 
-### gerfalcon.vogel@gmail.com
-
-### 🪖 My fields
 After I graduated as an electrical engineer, I have gained substantial experience in ***Kotlin*** language, ***Android*** development and integrated wireless technologies like ***Bluetooth Low Energy***, ***NFC*** and more but my current love is ***Flutter*** 💙
 
 <h4 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+<p align="left">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerfalcon&show_icons=true&locale=en&layout=compact" alt="gerfalcon" /></p>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <a href="https://newrelic.com/" target="_blank" rel="noreferrer"> <img src="https://newrelic.com/themes/custom/erno/assets/mediakit/new_relic_logo_vertical_white.png" alt="git" width="80" height="40"/> </a> 
+</a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gerfalcon&" alt="gerfalcon" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerfalcon&theme=onedark&row=1&column=8" alt="gerfalcon" /></a> </p>
-
-### 👨‍🏫  Knowledge sharing
-#### 🎓 University 
+### 🎓 University Lecturer 
 I am giving lectures on Android programming and wireless technologies as a teaching assistant while also taking part in lab courses as a demonstrator. I am also actively working on the **curriculum and organisation of the first Flutter uni class in Hungary.** 🇭🇺  (We had 3 semester with more than 3x120 students)
 
-#### 🗣️ Meetups & Seminars
+### 🗣️ Meetups & Seminars
 - [Say Hi to Flutter 3 - 05/2022](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
 I held a presentation at the recent online meetup, "HELLO FLUTTER", which was dedicated entirely to the framework.
 ‍My presentation was titled "Say Hi to Flutter 3", during which I reviewed the content of the recently announced Flutter 3.0 together with the audience, while also analysing what the future holds for this increasingly more popular framework. 📈 Slides are available [here](https://speakerdeck.com/gerfalcon/csongor-vogel-flutter-3-0).
@@ -51,7 +40,7 @@ The webinar - organized by Webuni - was held with the assistance of acknowledged
 - [Native versus cross-platform development - 10/2021](https://youtu.be/uMzdXnu0lyQ)
 I got the opportunity to participate in an online round table discussion on cross-platform development.
 
-#### 📝 Publications
+### 📝 Publications
 - [The current state of Flutter in the fintech sector - 2022.01](https://sparks.fintechvilaga.hu/202201)
 I could contribute as a technical writer to the first edition of Fintech Sparks!
 In my article, I tackled the buzzing topic of Flutter and a leading neobank, Nubank.
