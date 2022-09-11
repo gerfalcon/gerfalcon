@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Csongor🐦</h1>
 
 
-<h4 align="center">I'm a 🇦🇪 Dubai-based Senior Mobile Engineer co-leading the 💙 Flutter chapter of @talabat-dhme 
-
-I love sharing my knowledge with others by mentoring developers, talking at meetups, and working on the curriculum and organization of the first Flutter uni class in 🇭🇺 Hungary.</h4>
+#### I'm a 🇦🇪 Dubai-based Senior Mobile Engineer co-leading the 💙 Flutter chapter [@Talabat](https://github.com/talabat-dhme)
+#### I love sharing my knowledge with others by mentoring developers, talking at meetups, and working on the curriculum and organization of the first Flutter uni class in 🇭🇺 Hungary.
 
 <h3 align="left">📫 Connect with me</h3>
 <p align="left">
