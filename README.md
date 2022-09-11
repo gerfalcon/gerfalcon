@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Csongor🐦</h1>
-<h3 align="center">A 🇭🇺Hungarian 💙Flutter enthusiast from 🇦🇪Dubai</h3>
+
+
+<h4 align="center">I'm a 🇦🇪 Dubai-based Senior Mobile Engineer co-leading the 💙 Flutter chapter of @talabat-dhme 
+
+I love sharing my knowledge with others by mentoring developers, talking at meetups, and working on the curriculum and organization of the first Flutter uni class in 🇭🇺 Hungary.</h4>
 
 <h3 align="left">📫 Connect with me</h3>
 <p align="left">
@@ -9,8 +13,6 @@
 </p>
 
 ##### gerfalcon.vogel@gmail.com
-
-After I graduated as an electrical engineer, I have gained substantial experience in ***Kotlin*** language, ***Android*** development and integrated wireless technologies like ***Bluetooth Low Energy***, ***NFC*** and more but my current love is ***Flutter*** 💙
 
 <h4 align="left">Languages and Tools</h3>
 <p align="left">
