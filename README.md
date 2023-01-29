@@ -23,6 +23,10 @@
 I am giving lectures on Android programming and wireless technologies as a teaching assistant while also taking part in lab courses as a demonstrator. I am also actively working on the **curriculum and organisation of the first Flutter uni class in Hungary.** 🇭🇺  (We had 3 semester with more than 3x120 students)
 
 ### 🗣️ Meetups & Seminars
+- [Flutter at World Expo 2020 Dubai - 10/2022](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
+In this talk, I shared the story of how flutter gave me the opportunity to be a part of a worldwide event. How we built an end-to-end food delivery app by using Flutter for the 24 million visitors of Dubai Expo 2020 in 5 months.
+
+
 - [Say Hi to Flutter 3 - 05/2022](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
 I held a presentation at the recent online meetup, "HELLO FLUTTER", which was dedicated entirely to the framework.
 ‍My presentation was titled "Say Hi to Flutter 3", during which I reviewed the content of the recently announced Flutter 3.0 together with the audience, while also analysing what the future holds for this increasingly more popular framework. 📈 Slides are available [here](https://speakerdeck.com/gerfalcon/csongor-vogel-flutter-3-0).
