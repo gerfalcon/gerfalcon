@@ -20,7 +20,7 @@
 </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 ### 🎓 University Lecturer 
-I am giving lectures on Android programming and wireless technologies as a teaching assistant while also taking part in lab courses as a demonstrator. I am also actively working on the **curriculum and organisation of the first [Flutter uni class](https://portal.vik.bme.hu/kepzes/targyak/VIAUAV45/) in Hungary.** 🇭🇺  (We had 3 semester with more than 3x120 students)
+I am giving lectures on Android programming and wireless technologies as a teaching assistant while also taking part in lab courses as a demonstrator. I am also actively working on the **curriculum and organisation of the first [Flutter uni class](https://portal.vik.bme.hu/kepzes/targyak/VIAUAV45/) in Hungary.** 🇭🇺  (We had 5 semester with more than 6x120 students)
 
 ### 🗣️ Meetups & Seminars
 - [Flutter at World Expo 2020 Dubai - 10/2022](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
