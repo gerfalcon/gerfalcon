@@ -20,27 +20,33 @@
 </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 ### 🎓 University Lecturer 
-I am giving lectures on Android programming and wireless technologies as a teaching assistant while also taking part in lab courses as a demonstrator. I am also actively working on the **curriculum and organisation of the first [Flutter uni class](https://portal.vik.bme.hu/kepzes/targyak/VIAUAV45/) in Hungary.** 🇭🇺  (We had 6 semester with more than 6x120 students)
+I am giving lectures on Android programming and wireless technologies as a teaching assistant and taking part in lab courses as a demonstrator. I am also actively working on the **curriculum and organization of Hungary's first [Flutter uni class](https://portal.vik.bme.hu/kepzes/targyak/VIAUAV45/).** 🇭🇺  (We had six semesters with more than 6x120 students)
 
 ### 🗣️ Meetups & Seminars
+- [The Joy of Functional Programming in Dart - 07/2023 Fluttercon23](https://fluttercon.dev/csongor-vogel/) I had an opportunity to demonstrate how our favorite programming language, Dart, supports functional programming. I gave my first international conference talk on one of the biggest stages in the history of Flutter.
+
+- [Keynote: Embedding Flutter - 06/2023](https://www.linkedin.com/posts/flutter-ad_flutteruae-activity-7069350020067508224-Wt-6?utm_source=share&utm_medium=member_desktop)
+I had the opportunity to kick off the 4th Flutter Abu Dhabi and Dubai meetup by sharing insights on integrating Flutter with native mobile applications.
+
+
 - [Flutter at World Expo 2020 Dubai - 10/2022](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
-In the first ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-orginized, I shared the story of how flutter gave me the opportunity to be a part of a worldwide event. How we built an end-to-end food delivery app by using Flutter for the 24 million visitors of Dubai Expo 2020 in 5 months.
+In the first ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-organized, I shared the story of how flutter gave me the opportunity to be a part of a worldwide event. How we built an end-to-end food delivery app by using Flutter for the 24 million visitors of Dubai Expo 2020 in 5 months.
 
 
 - [Say Hi to Flutter 3 - 05/2022](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
-I held a presentation at the recent online meetup, "HELLO FLUTTER", which was dedicated entirely to the framework.
+I held a presentation at the recent online meetup, "HELLO FLUTTER" which was dedicated entirely to the framework.
 ‍My presentation was titled "Say Hi to Flutter 3", during which I reviewed the content of the recently announced Flutter 3.0 together with the audience, while also analysing what the future holds for this increasingly more popular framework. 📈 Slides are available [here](https://speakerdeck.com/gerfalcon/csongor-vogel-flutter-3-0).
 
 - [How to make your Flutter app accessible - 12/2021](https://youtu.be/VGfzT_AuVPI?t=3240)
-This is a short talk I presented at the December 2020 installment of the HWSW free! meetup series (online) in Hungarian.
+This is a short talk I presented at the December 2020 installment of the HWSW free! Meetup series (online) in Hungarian.
 Slides are available [here](https://speakerdeck.com/gerfalcon/how-to-make-your-flutter-app-accessible).
 
-- [Hey Google, Flutter Web or Angular? - 08/2021](https://youtu.be/MQ7wdwjABHs?t=1787)With my web developer colleague, we compared the Flutter Web and Angular frameworks based on several aspects including Navigation, SEO, Responsive UI, or State Management.
-Our presentation was hosted HWSW free! meetup series (online) in Hungarian and our talk was recorded and it's available on the HWSW YT channel.
+- [Hey Google, Flutter Web or Angular? - 08/2021](https://youtu.be/MQ7wdwjABHs?t=1787)With my web developer colleague, we compared the Flutter Web and Angular frameworks based on several aspects, including Navigation, SEO, Responsive UI, or State Management.
+Our presentation was hosted HWSW free! Meetup series (online) in Hungarian, and our talk was recorded, and it's available on the HWSW YT channel.
 
 - [The future of Flutter - 08/2021](https://youtu.be/YV5csJu-8qk)
 I was invited to a round table discussion on the future of Flutter.
-The webinar - organized by Webuni - was held with the assistance of acknowledged industry professionals and will tackle the topics of the usefulness of > Flutter in practice, the advantages and disadvantages of two-inone solutions, and the potential this framework holds.
+The webinar - organized by Webuni - was held with the assistance of acknowledged industry professionals and will tackle the topics of the usefulness of > Flutter in practice, the advantages and disadvantages of two-in-one solutions, and the potential this framework holds.
 
 - [Native versus cross-platform development - 10/2021](https://youtu.be/uMzdXnu0lyQ)
 I got the opportunity to participate in an online round table discussion on cross-platform development.
@@ -52,7 +58,7 @@ In my article, I tackled the buzzing topic of Flutter and a leading neobank, Nub
 I built my thoughts on my experiences gathered at an interactive industry roundtable discussion on native
 vs. cross-platform application development.
 
-- [Flutter Web vs Angular: An analysis of what to use in 2022 ](https://www.ffnext.io/blog/flutter-web-vs-angular-a-comprehensive-analysis-of-what-to-use-in-2022) 
+- [Flutter Web vs. Angular: An analysis of what to use in 2022 ](https://www.ffnext.io/blog/flutter-web-vs-angular-a-comprehensive-analysis-of-what-to-use-in-2022) 
 The purpose of this article is to provide up-to-date information by comparing these systems to developers
 who are wondering where to head in 2022 in the seemingly endless maze of creating web applications.
 
