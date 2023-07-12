@@ -23,7 +23,7 @@
 I am giving lectures on Android programming and wireless technologies as a teaching assistant and taking part in lab courses as a demonstrator. I am also actively working on the **curriculum and organization of Hungary's first [Flutter uni class](https://portal.vik.bme.hu/kepzes/targyak/VIAUAV45/).** 🇭🇺  (We had six semesters with more than 6x120 students)
 
 ### 🗣️ Meetups & Seminars
-- [The Joy of Functional Programming in Dart - 07/2023 Fluttercon23](https://fluttercon.dev/csongor-vogel/) I had an opportunity to demonstrate how our favorite programming language, Dart, supports functional programming. I gave my first international conference talk on one of the biggest stages in the history of Flutter.
+- [The Joy of Functional Programming in Dart - 07/2023 Fluttercon23](https://fluttercon.dev/csongor-vogel/) I had an opportunity to demonstrate how our favorite programming language, Dart, supports functional programming. I gave my first international conference talk on one of the biggest stages in the history of Flutter. Slides are available [here](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23).
 
 - [Keynote: Embedding Flutter - 06/2023](https://www.linkedin.com/posts/flutter-ad_flutteruae-activity-7069350020067508224-Wt-6?utm_source=share&utm_medium=member_desktop)
 I had the opportunity to kick off the 4th Flutter Abu Dhabi and Dubai meetup by sharing insights on integrating Flutter with native mobile applications.
