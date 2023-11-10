@@ -27,6 +27,8 @@ I am giving lectures on Android programming and wireless technologies as a teach
 
 
 ### 🗣️ Meetups & Seminars
+- [UpScale Flutter MeetUp: Dive into cross platform development](https://www.youtube.com/watch?v=-bwXEICHB2Q&ab_channel=UpScale) Panelist in a Hungarian Flutter meetup hosted by UpScale at KPMG about cross-platform technologies discussing the business values that Flutter can bring to a company.
+
 - [Flutter UAE meetup #6 - Ask Pawan Anything](https://www.youtube.com/watch?v=htXh_-t8QjY&t=1988s&ab_channel=Codepur) - Co-organized and participated as a panelist in our first online meetup where we hosted one of the most influential Flutter and Dart Google Develop Experts, Pawan from India, spending 2 hours answering questions from the community and helping their Flutter learning journey.
 
 - [Flutter Abu Dhabi & Dubai Meetup #5 at Wio bank](https://www.meetup.com/flutter-ad/events/295092425/?chapterContext=true&regToRsvp=true&isFromReg=true) - Co-organized the event with 60+ participants where I also gave a workshop about system design. 
