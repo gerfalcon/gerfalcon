@@ -28,16 +28,16 @@ I am giving lectures on Android programming and wireless technologies as a teach
 
 
 ### 🗣️ Meetups & Seminars
-- [UpScale Flutter MeetUp: Dive into cross platform development](https://www.youtube.com/watch?v=-bwXEICHB2Q&ab_channel=UpScale) Panelist in a Hungarian Flutter meetup hosted by UpScale at KPMG about cross-platform technologies discussing the business values that Flutter can bring to a company.
+- [UpScale Flutter MeetUp: Dive into cross platform development - 11/2023](https://www.youtube.com/watch?v=-bwXEICHB2Q&ab_channel=UpScale) Panelist in a Hungarian Flutter meetup hosted by UpScale at KPMG about cross-platform technologies discussing the business values that Flutter can bring to a company.
 
-- [Flutter UAE meetup #6 - Ask Pawan Anything](https://www.youtube.com/watch?v=htXh_-t8QjY&t=1988s&ab_channel=Codepur) - Co-organized and participated as a panelist in our first online meetup where we hosted one of the most influential Flutter and Dart Google Develop Experts, Pawan from India, spending 2 hours answering questions from the community and helping their Flutter learning journey.
+- [Flutter UAE meetup #6 - Ask Pawan Anything - 10/2023](https://www.youtube.com/watch?v=htXh_-t8QjY&t=1988s&ab_channel=Codepur) - Co-organized and participated as a panelist in our first online meetup where we hosted one of the most influential Flutter and Dart Google Develop Experts, Pawan from India, spending 2 hours answering questions from the community and helping their Flutter learning journey.
 
-- [Flutter Abu Dhabi & Dubai Meetup #5 at Wio bank](https://www.meetup.com/flutter-ad/events/295092425/?chapterContext=true&regToRsvp=true&isFromReg=true) - Co-organized the event with 60+ participants where I also gave a workshop about system design. 
+- [Flutter Abu Dhabi & Dubai Meetup #5 at Wio bank  - 08/2023](https://www.meetup.com/flutter-ad/events/295092425/?chapterContext=true&regToRsvp=true&isFromReg=true) - Co-organized the event with 60+ participants where I also gave a workshop about system design. 
 
 - [Keynote: Embedding Flutter - 06/2023](https://www.linkedin.com/posts/flutter-ad_flutteruae-activity-7069350020067508224-Wt-6?utm_source=share&utm_medium=member_desktop)
 I had the opportunity to kick off the 4th Flutter Abu Dhabi and Dubai meetup by sharing insights on integrating Flutter with native mobile applications.
 
-- [Flutter Forward Extended meetup at Innovaccer](https://www.linkedin.com/posts/flutter-ad_we-still-cant-get-over-how-great-yesterdays-activity-7035605328784207872-5ebD?utm_source=share&utm_medium=member_desktop) - Co-organized by collaborating with Innovaccer, where I showcased a technical quiz game activity for 60+ participants.
+- [Flutter Forward Extended meetup at Innovaccer - 03/2023](https://www.linkedin.com/posts/flutter-ad_we-still-cant-get-over-how-great-yesterdays-activity-7035605328784207872-5ebD?utm_source=share&utm_medium=member_desktop) - Co-organized by collaborating with Innovaccer, where I showcased a technical quiz game activity for 60+ participants.
 
 - [Flutter at World Expo 2020 Dubai - 10/2022](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
 In the first ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-organized, I shared the story of how flutter gave me the opportunity to be a part of a worldwide event. How we built an end-to-end food delivery app by using Flutter for the 24 million visitors of Dubai Expo 2020 in 5 months.
