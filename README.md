@@ -34,7 +34,9 @@ I've taught over **700+** Computer Software Engineering students in **6 semester
 </p>
 
 - [The Joy of Functional Programming in Dart - 12/2023 Fluttercon23](https://flutterconf.in/home) Flutter Conf India gave me a chance to share my knowledge about Functional Programming in Dart with more than 650+ attendees 🚀 The hospitality and warm welcome I received will stay with me forever. I can’t wait to come back to India soon! 💙🇮🇳 My slides are available [here](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23) and the samples are available in the following [Github repo](https://github.com/gerfalcon/fp_playground)
-
+<p align="center">
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/ed9c41ce-bdab-4b19-a15f-7c6b0e6aad7e" alt="drawing" width="400"/>
+</p>
 
 ### 🗣️ Meetups & Seminars
 - [UpScale Flutter MeetUp: Dive into cross platform development - 11/2023](https://www.youtube.com/watch?v=-bwXEICHB2Q&ab_channel=UpScale) Panelist in a Hungarian Flutter meetup hosted by UpScale at KPMG about cross-platform technologies discussing the business values that Flutter can bring to a company.
