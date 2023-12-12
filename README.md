@@ -39,42 +39,42 @@ I've taught over **700+** Computer Software Engineering students in **6 semester
 </p>
 
 ### 🗣️ Meetups & Seminars
-- [UpScale Flutter MeetUp: Dive into cross-platform development - 11/2023](https://www.youtube.com/watch?v=-bwXEICHB2Q&ab_channel=UpScale) Panelist in a Hungarian Flutter meetup hosted by UpScale at KPMG about cross-platform technologies discussing the business values that Flutter can bring to a company.
+- [UpScale Flutter MeetUp: Dive into cross-platform development - 11/2023](https://www.youtube.com/watch?v=-bwXEICHB2Q&ab_channel=UpScale) **Panelist** in a Hungarian Flutter meetup hosted by UpScale at KPMG about cross-platform technologies discussing the business values that Flutter can bring to a company.
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/6487ab06-a0a4-42d1-98a1-66f402c039f9" alt="drawing" width="400"/>
 </p>
 
 
-- [Flutter UAE meetup #6 - Ask Pawan Anything - 10/2023](https://www.youtube.com/watch?v=htXh_-t8QjY&t=1988s&ab_channel=Codepur) - Co-organized and participated as a panelist in our first online meetup where we hosted one of the most influential Flutter and Dart Google Develop Experts, [Pawan (@imthepk)](https://twitter.com/imthepk) from India, spending 2 hours answering questions from the community and helping their Flutter learning journey.
+- [Flutter Abu Dhabi & Dubai Meetup #6 - Ask Pawan Anything - 10/2023](https://www.youtube.com/watch?v=htXh_-t8QjY&t=1988s&ab_channel=Codepur) - Co-organized and participated as a panelist in our first online meetup where we hosted one of the most influential Flutter and Dart Google Develop Experts, [Pawan (@imthepk)](https://twitter.com/imthepk) from India, spending **2 hours answering questions** from the community and helping their Flutter learning journey.
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/871d2cd3-e920-4036-b03b-4526c349b977" alt="drawing" width="400"/>
 </p>
 
-- [Flutter Abu Dhabi & Dubai Meetup #5 at Wio bank  - 08/2023](https://www.meetup.com/flutter-ad/events/295092425/?chapterContext=true&regToRsvp=true&isFromReg=true) - Co-organized the event with 60+ participants where I also gave a workshop about system design. 
+- [Flutter Abu Dhabi & Dubai Meetup #5 at Wio bank  - 08/2023](https://www.meetup.com/flutter-ad/events/295092425/?chapterContext=true&regToRsvp=true&isFromReg=true) - Co-organized the event with **60+ participants** where I also gave a workshop about system design. 
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/533ff2e2-674b-4f68-aff9-d714eff1b15d" alt="drawing" width="400"/>
 </p>
 
-- [Keynote: Embedding Flutter - 06/2023](https://www.linkedin.com/posts/flutter-ad_flutteruae-activity-7069350020067508224-Wt-6?utm_source=share&utm_medium=member_desktop)
+- [Keynote: Embedding Flutter in Flutter Abu Dhabi & Dubai Meetup #4 at talabat - 06/2023](https://www.linkedin.com/posts/flutter-ad_flutteruae-activity-7069350020067508224-Wt-6?utm_source=share&utm_medium=member_desktop)
 I co-organized the **4th meetup of Flutter Abu Dhabi and Dubai** in the new **talabat HQ** with more than **100+ participants** from UAE, UK, India, Pakistan, and Oman __(150 registered attendees with 70+ waiting list)__. I had the opportunity to kick off the event with my keynote on how to integrate Flutter with native mobile applications.
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/52ca380f-e58e-47e9-9d31-8a1a02c97362" width="400"/>
 </p>
 
-- [Flutter Forward Extended meetup at Innovaccer - 03/2023](https://www.linkedin.com/posts/flutter-ad_we-still-cant-get-over-how-great-yesterdays-activity-7035605328784207872-5ebD?utm_source=share&utm_medium=member_desktop) - I co-organized one event for the Flutter Abu Dhabi and Dubai community by collaborating with Innovaccer and showcasing a technical quiz game activity for **60+ participants**.
+- [Flutter Forward Extended meetup at Innovaccer - 03/2023](https://www.linkedin.com/posts/flutter-ad_we-still-cant-get-over-how-great-yesterdays-activity-7035605328784207872-5ebD?utm_source=share&utm_medium=member_desktop) - I co-organized one event for the Flutter Abu Dhabi and Dubai community by collaborating with Innovaccer and giving a technical quiz game activity for **60+ participants**.
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/46967774-7ebc-4ecd-83de-c1f740058e8b" width="400"/>
 </p>
 
 - [Flutter at World Expo 2020 Dubai - 10/2022](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
-In the first ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-organized, I shared the story of how flutter gave me the opportunity to be a part of a worldwide event. How we built an end-to-end food delivery app by using Flutter for the 24 million visitors of Dubai Expo 2020 in 5 months.
+In the first ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-organized, I shared the story of how flutter gave me the opportunity to be a part of a worldwide event. How we built an end-to-end food delivery app by using Flutter for the **24 million visitors** of Dubai Expo 2020 in **5 months**. Slides are available in the following link.
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8e845c6b-d18c-4889-87e9-e03052d8d9f7" width="400"/>
 </p>
 
 - [Say Hi to Flutter 3 - 05/2022](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
 I held a presentation at the recent online meetup, "HELLO FLUTTER" which was dedicated entirely to the framework.
-‍My presentation was titled "Say Hi to Flutter 3", during which I reviewed the content of the recently announced Flutter 3.0 together with the audience, while also analysing what the future holds for this increasingly more popular framework. 📈 Slides are available [here](https://speakerdeck.com/gerfalcon/csongor-vogel-flutter-3-0).
+‍My presentation was titled "Say Hi to Flutter 3", during which I reviewed the content of the recently announced Flutter 3.0 together with the audience while also analyzing what the future holds for this increasingly popular framework. 📈 Slides are available [here](https://speakerdeck.com/gerfalcon/csongor-vogel-flutter-3-0).
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/6eea698c-9f20-4a5c-a443-7a371a1d371a" width="400"/>
 </p>
@@ -87,7 +87,7 @@ Slides are available [here](https://speakerdeck.com/gerfalcon/how-to-make-your-f
 </p>
 
 - [Hey Google, Flutter Web or Angular? - 08/2021](https://youtu.be/MQ7wdwjABHs?t=1787)With my web developer colleague, we compared the Flutter Web and Angular frameworks based on several aspects, including Navigation, SEO, Responsive UI, or State Management.
-Our presentation was hosted HWSW free! Meetup series (online) in Hungarian, and our talk was recorded, and it's available on the HWSW YT channel.
+Our presentation was hosted HWSW free! Meetup series (online) in Hungarian and our talk was recorded and available on the [HWSW YT channel](https://youtu.be/MQ7wdwjABHs?t=1787).
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/7b93eb3b-7b8d-426d-9a74-13f3ac83da3d" width="400"/>
 </p>
