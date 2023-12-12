@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Csongor (@GerfalconVogel)🐦</h1>
 
 
-#### I'm a Dubai-based Senior Mobile Engineer leading the Flutter chapter [@Talabat](https://github.com/talabat-dhme) and co-organizing the [Flutter Abu Dhabi and Dubai](https://www.meetup.com/flutter-ad/) community. 🇦🇪 💙
+#### I'm a Dubai-based Hungarian Senior Mobile Engineer leading the Flutter chapter [@Talabat](https://github.com/talabat-dhme) and co-organizing the [Flutter Abu Dhabi and Dubai](https://www.meetup.com/flutter-ad/) community. 🇦🇪 💙
 #### I enjoy sharing my knowledge by mentoring developers, speaking at conferences and meetups, and contributing to the curriculum and organization of 🇭🇺 Hungary's first Flutter University class.
 
 <h4 align="left">📫 Connect with me</h3>
