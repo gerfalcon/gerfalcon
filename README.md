@@ -24,12 +24,16 @@ Since 2020, I have been actively working on the curriculum and organization for 
 I've taught over **700+** Computer Software Engineering students in **6 semesters**, providing them with a strong foundation to begin their careers in Dart and Flutter 💙.
 
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/d1af4729-613f-4275-80bd-06e1647fd220" alt="drawing" width="300"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/d1af4729-613f-4275-80bd-06e1647fd220" alt="drawing" width="400"/>
 </p>
 
 ### 🌍 Conferences
-- [The Joy of Functional Programming in Dart - 07/2023 Fluttercon23](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/) I had an opportunity to demonstrate how our favorite programming language, Dart, supports functional programming. I gave my first international conference talk on one of the biggest stages in the history of Flutter. [Recording LINK](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/) and slides are available [here](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23) and the examples in the following [Github repo](https://github.com/gerfalcon/fp_playground)
-- [The Joy of Functional Programming in Dart - 12/2023 Fluttercon23](https://flutterconf.in/home) Flutter Conf India gave me a chance to share my knowledge about Functional Programming in Dart with more than 650+ attendees 🚀 The hospitality and warm welcome I received will stay with me forever. I can’t wait to come back to India soon! 💙🇮🇳 My slides are available [here](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23) and the samples are available in the following 
+- [The Joy of Functional Programming in Dart - 07/2023 Fluttercon23](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/) I had an opportunity to demonstrate how our favorite programming language, Dart, supports functional programming. I gave my first international conference talk on one of the biggest stages in the history of Flutter. The [recording](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/), the [slides](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23) and the examples are available in the following [Github repo](https://github.com/gerfalcon/fp_playground)
+<p align="center">
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/897fc049-8ad8-413b-99a0-9438cdb5fbfb" alt="drawing" width="400"/>
+</p>
+
+- [The Joy of Functional Programming in Dart - 12/2023 Fluttercon23](https://flutterconf.in/home) Flutter Conf India gave me a chance to share my knowledge about Functional Programming in Dart with more than 650+ attendees 🚀 The hospitality and warm welcome I received will stay with me forever. I can’t wait to come back to India soon! 💙🇮🇳 My slides are available [here](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23) and the samples are available in the following [Github repo](https://github.com/gerfalcon/fp_playground)
 
 
 ### 🗣️ Meetups & Seminars
