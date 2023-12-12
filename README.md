@@ -20,7 +20,7 @@
 </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 ### 🎓 University Lecturer 
-I am giving lectures on Android programming and wireless technologies as a teaching assistant and taking part in lab courses as a demonstrator. I am also actively working on the **curriculum and organization of Hungary's first [Flutter uni class](https://portal.vik.bme.hu/kepzes/targyak/VIAUAV45/).** 🇭🇺  (We had six semesters with more than 6x120 students)
+I am actively working on the **curriculum and organization of Hungary's first [Flutter uni class](https://portal.vik.bme.hu/kepzes/targyak/VIAUAV45/).** 🇭🇺  We have had six semesters with more than 6x120 students who are receiving the necessary foundation to begin their careers in Flutter.💙 
 
 ### 🌍 Conferences
 - [The Joy of Functional Programming in Dart - 07/2023 Fluttercon23](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/) I had an opportunity to demonstrate how our favorite programming language, Dart, supports functional programming. I gave my first international conference talk on one of the biggest stages in the history of Flutter. [Recording LINK](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/) and slides are available [here](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23) and the examples in the following [Github repo](https://github.com/gerfalcon/fp_playground)
