@@ -55,6 +55,12 @@ I co-organized the **4th meetup of Flutter Abu Dhabi and Dubai** in the new **ta
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/52ca380f-e58e-47e9-9d31-8a1a02c97362" width="400"/>
 </p>
 
+
+- [Giving an online workshop to more than 7 GDSC Groups during Flutter Forward Extended with BCE Patna - 04/2023](https://www.linkedin.com/posts/gdsc-bce-patna_flutterforwardextended-flutterforwardextendedindiagoogle-activity-7047259178515525632-X1UK?utm_source=share&utm_medium=member_desktop) I presented a workshop on Flutter development, covering List widgets, Asynchronous programming in Dart, and connecting a REST API to a basic UI. The code sample is available in the following [Github repository](https://github.com/flutter-uae/flutter-intro-movie-app).
+<p align="center">
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/0cd6806d-a441-47d9-a8a4-6b15d9938085" width="400"/>
+</p>
+
 - [Flutter Forward Extended meetup at Innovaccer - 03/2023](https://www.linkedin.com/posts/flutter-ad_we-still-cant-get-over-how-great-yesterdays-activity-7035605328784207872-5ebD?utm_source=share&utm_medium=member_desktop) - I co-organized one event for the Flutter Abu Dhabi and Dubai community by collaborating with Innovaccer and giving a technical quiz game activity for **60+ participants**.
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/46967774-7ebc-4ecd-83de-c1f740058e8b" width="400"/>
