@@ -95,12 +95,15 @@ Our presentation was hosted HWSW free! Meetup series (online) in Hungarian, and 
 - [The future of Flutter - 08/2021](https://youtu.be/YV5csJu-8qk)
 I was invited to a round table discussion on the future of Flutter.
 The webinar - organized by Webuni - was held with the assistance of acknowledged industry professionals and will tackle the topics of the usefulness of > Flutter in practice, the advantages and disadvantages of two-in-one solutions, and the potential this framework holds.
-
+<p align="center">
+<img width="400" alt="Screen Shot 2023-12-13 at 2 59 13 AM" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8503f350-8c89-40d6-b0ee-bd8e06fe740b">
+</p>
 - [Native versus cross-platform development - 10/2021](https://youtu.be/uMzdXnu0lyQ)
 I got the opportunity to participate in an online round table discussion on cross-platform development.
 <p align="center">
-<img src="" width="400"/>
+<img width="400" alt="Screen Shot 2023-12-13 at 3 02 10 AM" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/4b4b6e77-3316-4f60-9edb-e80c2d3094bc">
 </p>
+
 
 ### 📝 Publications
 - [The current state of Flutter in the fintech sector - 2022.01](https://sparks.fintechvilaga.hu/202201)
