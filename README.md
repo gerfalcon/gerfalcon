@@ -69,27 +69,27 @@ I had the opportunity to kick off the 4th Flutter Abu Dhabi and Dubai meetup by 
 - [Flutter at World Expo 2020 Dubai - 10/2022](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
 In the first ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-organized, I shared the story of how flutter gave me the opportunity to be a part of a worldwide event. How we built an end-to-end food delivery app by using Flutter for the 24 million visitors of Dubai Expo 2020 in 5 months.
 <p align="center">
-<img src="" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8e845c6b-d18c-4889-87e9-e03052d8d9f7" width="400"/>
 </p>
 
 - [Say Hi to Flutter 3 - 05/2022](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
 I held a presentation at the recent online meetup, "HELLO FLUTTER" which was dedicated entirely to the framework.
 ‍My presentation was titled "Say Hi to Flutter 3", during which I reviewed the content of the recently announced Flutter 3.0 together with the audience, while also analysing what the future holds for this increasingly more popular framework. 📈 Slides are available [here](https://speakerdeck.com/gerfalcon/csongor-vogel-flutter-3-0).
 <p align="center">
-<img src="" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/6eea698c-9f20-4a5c-a443-7a371a1d371a" width="400"/>
 </p>
 
 - [How to make your Flutter app accessible - 12/2021](https://youtu.be/VGfzT_AuVPI?t=3240)
 This is a short talk I presented at the December 2020 installment of the HWSW free! Meetup series (online) in Hungarian.
 Slides are available [here](https://speakerdeck.com/gerfalcon/how-to-make-your-flutter-app-accessible).
 <p align="center">
-<img src="" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/b6dcbfc9-8a6f-4cd5-9392-86ea8234e9c4" width="400"/>
 </p>
 
 - [Hey Google, Flutter Web or Angular? - 08/2021](https://youtu.be/MQ7wdwjABHs?t=1787)With my web developer colleague, we compared the Flutter Web and Angular frameworks based on several aspects, including Navigation, SEO, Responsive UI, or State Management.
 Our presentation was hosted HWSW free! Meetup series (online) in Hungarian, and our talk was recorded, and it's available on the HWSW YT channel.
 <p align="center">
-<img src="" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/7b93eb3b-7b8d-426d-9a74-13f3ac83da3d" width="400"/>
 </p>
 
 - [The future of Flutter - 08/2021](https://youtu.be/YV5csJu-8qk)
@@ -101,6 +101,7 @@ I got the opportunity to participate in an online round table discussion on cros
 <p align="center">
 <img src="" width="400"/>
 </p>
+
 ### 📝 Publications
 - [The current state of Flutter in the fintech sector - 2022.01](https://sparks.fintechvilaga.hu/202201)
 I could contribute as a technical writer to the first edition of Fintech Sparks!
