@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Csongor🐦</h1>
+<h1 align="center">Hi 👋, I'm Csongor (@GerfalconVogel)🐦</h1>
 
 
 #### I'm a Dubai-based Senior Mobile Engineer leading the Flutter chapter [@Talabat](https://github.com/talabat-dhme) and co-organizing the [Flutter Abu Dhabi and Dubai](https://www.meetup.com/flutter-ad/) community. 🇦🇪 💙
@@ -109,9 +109,16 @@ vs. cross-platform application development.
 - [Flutter Web vs. Angular: An analysis of what to use in 2022 ](https://www.ffnext.io/blog/flutter-web-vs-angular-a-comprehensive-analysis-of-what-to-use-in-2022) 
 The purpose of this article is to provide up-to-date information by comparing these systems to developers
 who are wondering where to head in 2022 in the seemingly endless maze of creating web applications.
+<p align="center">
+<img width="400" alt="https://github.com/gerfalcon/gerfalcon/assets/15221068/78829771-d618-4f65-80db-b4245b0fe0e8">
+</p>
 
 - [What is Flutter and why is it a great tool for developers?](https://www.ffnext.io/blog/what-is-flutter-and-why-is-it-a-great-tool-for-developers)
 In this article, I gathered with one of my #flutterdev colleagues what we love about Flutter. 
+<p align="center">
+<img width="400" alt="https://github.com/gerfalcon/gerfalcon/assets/15221068/c6b410cf-b974-4829-97ae-9d13796d7fca">
+</p>
 
-### ⚡ Fun fact
+### ⚡ Fun fact!
+
 In my free time, I enjoy listening to and **DJing DnB music**
