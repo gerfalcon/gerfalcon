@@ -56,7 +56,7 @@ I've taught over **700+** Computer Software Engineering students in **6 semester
 </p>
 
 - [Keynote: Embedding Flutter - 06/2023](https://www.linkedin.com/posts/flutter-ad_flutteruae-activity-7069350020067508224-Wt-6?utm_source=share&utm_medium=member_desktop)
-I had the opportunity to kick off the 4th Flutter Abu Dhabi and Dubai meetup by sharing insights on integrating Flutter with native mobile applications.
+I co-organized the **4th meetup of Flutter Abu Dhabi and Dubai** in the new **talabat HQ** with more than **100+ participants** from UAE, UK, India, Pakistan, and Oman __(150 registered attendees with 70+ waiting list)__. I had the opportunity to kick off the event with my keynote on how to integrate Flutter with native mobile applications.
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/52ca380f-e58e-47e9-9d31-8a1a02c97362" width="400"/>
 </p>
