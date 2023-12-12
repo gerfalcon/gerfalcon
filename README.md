@@ -110,13 +110,13 @@ vs. cross-platform application development.
 The purpose of this article is to provide up-to-date information by comparing these systems to developers
 who are wondering where to head in 2022 in the seemingly endless maze of creating web applications.
 <p align="center">
-<img width="400" alt="https://github.com/gerfalcon/gerfalcon/assets/15221068/78829771-d618-4f65-80db-b4245b0fe0e8">
+<img width="400" alt="https://github.com/gerfalcon/gerfalcon/assets/15221068/232ccebd-0ee6-4490-a250-c7d91647f226">
 </p>
 
 - [What is Flutter and why is it a great tool for developers?](https://www.ffnext.io/blog/what-is-flutter-and-why-is-it-a-great-tool-for-developers)
 In this article, I gathered with one of my #flutterdev colleagues what we love about Flutter. 
 <p align="center">
-<img width="400" alt="https://github.com/gerfalcon/gerfalcon/assets/15221068/c6b410cf-b974-4829-97ae-9d13796d7fca">
+<img width="400" alt="Screen Shot 2023-12-13 at 3 02 10 AM" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/9e12d5c2-410f-4764-b27d-513f39a4f33f">
 </p>
 
 ### ⚡ Fun fact!
