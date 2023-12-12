@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Csongor🐦</h1>
 
 
-#### I'm a 🇦🇪 Dubai-based Senior Mobile Engineer co-leading the 💙 Flutter chapter [@Talabat](https://github.com/talabat-dhme) and co-organizing the [Flutter Abu Dhabi and Dubai meetup](https://www.meetup.com/flutter-ad/) series.
-#### I love sharing my knowledge with others by mentoring developers, talking at meetups, and working on the curriculum and organization of the first Flutter uni class in 🇭🇺 Hungary.
+#### I'm a Dubai-based Senior Mobile Engineer leading the Flutter chapter [@Talabat](https://github.com/talabat-dhme) and co-organizing the [Flutter Abu Dhabi and Dubai](https://www.meetup.com/flutter-ad/) community. 🇦🇪 💙
+#### I enjoy sharing my knowledge by mentoring developers, speaking at conferences and meetups, and contributing to the curriculum and organization of 🇭🇺 Hungary's first Flutter University class.
 
-<h3 align="left">📫 Connect with me</h3>
+<h4 align="left">📫 Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/gerfalconvogel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gerfalconvogel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/csongorvogel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="csongor vogel" height="30" width="40" /></a>
@@ -12,12 +12,6 @@
 </p>
 
 ##### gerfalcon.vogel@gmail.com
-
-<h4 align="left">🛠 Languages and Tools</h3>
-<p align="left">
-
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <a href="https://newrelic.com/" target="_blank" rel="noreferrer"> <img src="https://newrelic.com/themes/custom/erno/assets/mediakit/new_relic_logo_vertical_white.png" alt="git" width="80" height="40"/> </a> 
-</a>
 
 ### 🎓 University Lecturer 
 Since 2020, I have been actively working on the curriculum and organization for **🇭🇺 Hungary's first [Flutter University class](https://portal.vik.bme.hu/kepzes/targyak/VIAUAV45/)** at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en). 
