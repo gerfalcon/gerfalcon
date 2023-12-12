@@ -90,12 +90,12 @@ Our presentation was hosted HWSW free! Meetup series (online) in Hungarian and o
 I was invited to a round table discussion on the future of Flutter.
 The webinar - organized by Webuni - was held with the assistance of acknowledged industry professionals and will tackle the topics of the usefulness of > Flutter in practice, the advantages and disadvantages of two-in-one solutions, and the potential this framework holds.
 <p align="center">
-<img width="400" alt="Screen Shot 2023-12-13 at 2 59 13 AM" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8503f350-8c89-40d6-b0ee-bd8e06fe740b">
+<img width="400" alt="The future of Flutter" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8503f350-8c89-40d6-b0ee-bd8e06fe740b">
 </p>
 - [Native versus cross-platform development - 10/2021](https://youtu.be/uMzdXnu0lyQ)
 I got the opportunity to participate in an online round table discussion on cross-platform development.
 <p align="center">
-<img width="400" alt="Screen Shot 2023-12-13 at 3 02 10 AM" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/4b4b6e77-3316-4f60-9edb-e80c2d3094bc">
+<img width="400" alt="Native versus cross-platform development" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/4b4b6e77-3316-4f60-9edb-e80c2d3094bc">
 </p>
 
 
@@ -110,13 +110,15 @@ vs. cross-platform application development.
 The purpose of this article is to provide up-to-date information by comparing these systems to developers
 who are wondering where to head in 2022 in the seemingly endless maze of creating web applications.
 <p align="center">
-<img width="400" alt="https://github.com/gerfalcon/gerfalcon/assets/15221068/232ccebd-0ee6-4490-a250-c7d91647f226">
+<img width="400" alt="Flutter Web vs. Angular" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/34dc8aef-601b-4ab3-9de1-d5b0b194ea44">
 </p>
+
+
 
 - [What is Flutter and why is it a great tool for developers?](https://www.ffnext.io/blog/what-is-flutter-and-why-is-it-a-great-tool-for-developers)
 In this article, I gathered with one of my #flutterdev colleagues what we love about Flutter. 
 <p align="center">
-<img width="400" alt="Screen Shot 2023-12-13 at 3 02 10 AM" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/9e12d5c2-410f-4764-b27d-513f39a4f33f">
+<img width="400" alt="What is Flutter and why is it a great tool for developer" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/9e12d5c2-410f-4764-b27d-513f39a4f33f">
 </p>
 
 ### ⚡ Fun fact!
