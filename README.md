@@ -17,10 +17,15 @@
 <p align="left">
 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <a href="https://newrelic.com/" target="_blank" rel="noreferrer"> <img src="https://newrelic.com/themes/custom/erno/assets/mediakit/new_relic_logo_vertical_white.png" alt="git" width="80" height="40"/> </a> 
-</a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</a>
 
 ### 🎓 University Lecturer 
-I am actively working on the **curriculum and organization of Hungary's first [Flutter uni class](https://portal.vik.bme.hu/kepzes/targyak/VIAUAV45/).** 🇭🇺  We have had six semesters with more than 6x120 students who are receiving the necessary foundation to begin their careers in Flutter.💙 
+Since 2020, I have been actively working on the curriculum and organization for **🇭🇺 Hungary's first [Flutter University class](https://portal.vik.bme.hu/kepzes/targyak/VIAUAV45/)** at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en). 
+I've taught over **700+** Computer Software Engineering students in **6 semesters**, providing them with a strong foundation to begin their careers in Dart and Flutter 💙.
+
+<p align="center">
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/d1af4729-613f-4275-80bd-06e1647fd220" alt="drawing" width="300"/>
+</p>
 
 ### 🌍 Conferences
 - [The Joy of Functional Programming in Dart - 07/2023 Fluttercon23](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/) I had an opportunity to demonstrate how our favorite programming language, Dart, supports functional programming. I gave my first international conference talk on one of the biggest stages in the history of Flutter. [Recording LINK](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/) and slides are available [here](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23) and the examples in the following [Github repo](https://github.com/gerfalcon/fp_playground)
