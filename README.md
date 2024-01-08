@@ -15,7 +15,7 @@
 
 ### 🎓 University Lecturer 
 Since 2020, I have been actively working on the curriculum and organization for **🇭🇺 Hungary's first [Flutter University class](https://portal.vik.bme.hu/kepzes/targyak/VIAUAV45/)** at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en). 
-I've taught over **700+** Computer Software Engineering students in **6 semesters**, providing them with a strong foundation to begin their careers in Dart and Flutter 💙.
+I've taught over **700+** Computer Software Engineering students in **6 semesters**, providing them with a strong foundation to begin their careers in Dart and Flutter 💙. Official materials and samples can be found [here](https://github.com/bmeaut/VIAUAV45).
 
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/d1af4729-613f-4275-80bd-06e1647fd220" alt="drawing" width="400"/>
