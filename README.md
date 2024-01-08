@@ -98,6 +98,7 @@ The webinar - organized by Webuni - was held with the assistance of acknowledged
 <p align="center">
 <img width="400" alt="The future of Flutter" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8503f350-8c89-40d6-b0ee-bd8e06fe740b">
 </p>
+
 - [Native versus cross-platform development - 10/2021](https://youtu.be/uMzdXnu0lyQ)
 I got the opportunity to participate in an online round table discussion on cross-platform development.
 <p align="center">
