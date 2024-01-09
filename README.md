@@ -89,7 +89,7 @@ I presented at the recent online meetup, "HELLO FLUTTER" which was dedicated ent
 
 #### [How to make your Flutter app accessible - 12/2021](https://youtu.be/VmB_KLk28f8?t=5)
 I presented this talk at the December 2021 installment of the HWSW free! Meetup series (online) in Hungarian.
-Slides are available [here](https://speakerdeck.com/gerfalcon/how-to-make-your-flutter-app-accessible). Code samples are here in the following [Link](https://github.com/gerfalcon/flutter_l10n_a11y_sample/blob/master/README.md). Recording on [YouTube](https://youtu.be/VmB_KLk28f8?t=5)
+Slides are available [here](https://speakerdeck.com/gerfalcon/how-to-make-your-flutter-app-accessible). Code samples are here in the following [Link](https://github.com/gerfalcon/flutter_l10n_a11y_sample/tree/master). Recording on [YouTube](https://youtu.be/VmB_KLk28f8?t=5)
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/b6dcbfc9-8a6f-4cd5-9392-86ea8234e9c4" width="400"/>
 </p>
