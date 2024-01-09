@@ -94,7 +94,8 @@ Slides are available [here](https://speakerdeck.com/gerfalcon/how-to-make-your-f
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/b6dcbfc9-8a6f-4cd5-9392-86ea8234e9c4" width="400"/>
 </p>
 
-#### [Hey Google, Flutter Web or Angular? - 08/2021](https://youtu.be/MQ7wdwjABHs?t=1787)With my web developer colleague, we compared the Flutter Web and Angular frameworks based on several aspects, including Navigation, SEO, Responsive UI, or State Management.
+#### [Hey Google, Flutter Web or Angular? - 08/2021](https://youtu.be/MQ7wdwjABHs?t=1787)
+With my web developer colleague, we compared the Flutter Web and Angular frameworks based on several aspects, including Navigation, SEO, Responsive UI, or State Management.
 Our presentation was hosted HWSW free! Meetup series (online) in Hungarian and our talk was recorded and available on the [HWSW YT channel](https://youtu.be/MQ7wdwjABHs?t=1787).
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/7b93eb3b-7b8d-426d-9a74-13f3ac83da3d" width="400"/>
