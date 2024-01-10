@@ -5,7 +5,7 @@
 #### In my current role, I’m responsible for mentoring over 50 mobile engineers at the chapter level, enabling them to transition to Flutter, architecting the core of our Flutter codebase, and identifying Flutter talent globally for the company.
 
 #### Additionally, I co-organize the [Flutter Abu Dhabi and Dubai](https://www.meetup.com/flutter-ad/) community. 💙🇦🇪
-#### I enjoy sharing my knowledge by mentoring developers, speaking at conferences and meetups, and contributing to the curriculum and organization of 🇭🇺 Hungary's first Flutter University class.
+#### I enjoy sharing my knowledge by mentoring developers, speaking at conferences and meetups, and teaching students in Hungary's first [Flutter University class](https://github.com/bmeaut/VIAUAV45).
 
 <h4 align="left">📫 Connect with me</h3>
 <p align="left">
@@ -16,51 +16,63 @@
 
 ##### gerfalcon.vogel@gmail.com
 
-### 🎓 University Lecturer 
-Since 2020, I have been actively working on the curriculum and organization for **🇭🇺 Hungary's first [Flutter University class](https://portal.vik.bme.hu/kepzes/targyak/VIAUAV45/)** at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en). 
-I've taught over **700+** Computer Software Engineering students in **6 semesters**, providing them with a strong foundation to begin their careers in Dart and Flutter 💙. Official materials and samples can be found [here](https://github.com/bmeaut/VIAUAV45).
-
+## 🎓 Flutter University class in Hungary 
+In 2020, I co-created Hungary's first [Flutter University class](https://github.com/bmeaut/VIAUAV45) at the [Budapest University of Technology and Economics](https://www.bme.hu/?language=en). At present, I’m still lecturing and have taught over **700+** computer software engineering students in **6 semesters**, providing them with a strong foundation to start their careers in Dart and Flutter. 💙
+Recently, we convinced the University to make the materials open source, and I aim to keep improving and sharing them with the wider community.
+Resources
+- [GitHub - University Material for the Flutter-based Software Development subject](https://github.com/bmeaut/VIAUAV45)
+- Video recordings from 2022:
+  - [Chapter 04: Accessibility, Responsive UI](https://youtu.be/mLBj6zqzRdw?si=gdTAt5m0IXfPY3M2)
+  - [Chapter 10: Firebase](https://youtu.be/wu5HdeJz-8A?si=aFfobI3Rq-qitQ_1)
+  - [Chapter 11: Platform-specific APIs and Testing](https://www.youtube.com/watch?v=Z3Z4X6Z3Z4w&ab_channel=VikBME)
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/d1af4729-613f-4275-80bd-06e1647fd220" alt="drawing" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/d1af4729-613f-4275-80bd-06e1647fd220" alt="drawing" width="300"/>
 </p>
 
-### 🌍 Conferences
-#### [The Joy of Functional Programming in Dart - 07/2023 Fluttercon23](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/)
-At a [Fluttercon](https://fluttercon.dev/) with over 1000+ developers and 75 talks and workshops over 3 days, I had the chance to showcase how Dart, our favorite language, supports functional programming. The topic generated a lot of discussion, and my talk was [referenced in the official Dart team's Dart v3.1 retrospective](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda). The [recording](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/), the [slides](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23) and the examples are available in the following [Github repo](https://github.com/gerfalcon/fp_playground).
+## 🌍 Conferences
+#### 2023.07.09 - Fluttercon Berlin 23 - [The Joy of Functional Programming in Dart](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/)
+At [Fluttercon 23](https://fluttercon.dev/) with over **1000+ developers and 75 talks and workshops over 3 days**, I had the chance to showcase how Dart, our favorite language, supports functional programming. The topic generated a lot of discussion, and my talk was [**referenced** in the official Dart team's **Dart v3.1 retrospective**](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda).
+- [Video recording](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/)
+- [Slides (Speaker Deck)](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23)
+- [Code samples](https://github.com/gerfalcon/fp_playground)
+
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/897fc049-8ad8-413b-99a0-9438cdb5fbfb" alt="drawing" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/897fc049-8ad8-413b-99a0-9438cdb5fbfb" alt="drawing" width="300"/>
 </p>
 
-#### [The Joy of Functional Programming in Dart - 12/2023 Flutter Conf India 23](https://flutterconf.in/home)
-Flutter Conf India gave me a chance to share my knowledge about Functional Programming in Dart with more than **650+ attendees** 🚀 The hospitality and warm welcome I received will stay with me forever. I can’t wait to come back to India soon! 💙🇮🇳 My slides are available [here](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23) and the samples are available in the following [Github repo](https://github.com/gerfalcon/fp_playground)
+#### 2023.12.09 -  Flutter Conf India 23 - [The Joy of Functional Programming in Dart](https://flutterconf.in/home)
+At Flutter Conf India 23, I had the opportunity as a speaker to share my knowledge on functional programming in Dart with more than **650+ attendees**. After my talk, I received a lot of questions and feedback, which I could pass on further to Sandro Maglione, the creator of fpdart, to create a feedback loop between him & the community.
+- Video recording (soon)
+- [Slides (Drive)](https://docs.google.com/presentation/d/14Bd6FRcgr21yefIt13DLZ8zSOlOJiLyG/edit?usp=drive_link )
+- [Code samples](https://github.com/gerfalcon/fp_playground)
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/ed9c41ce-bdab-4b19-a15f-7c6b0e6aad7e" alt="drawing" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/ed9c41ce-bdab-4b19-a15f-7c6b0e6aad7e" alt="drawing" width="300"/>
 </p>
 
-### 🗣️ Meetups & Seminars
+## 🗣️ Meetups & Seminars
 #### [UpScale Flutter MeetUp: Dive into cross-platform development - 11/2023](https://www.youtube.com/watch?v=-bwXEICHB2Q&ab_channel=UpScale) 
 **Panelist** in a Hungarian Flutter meetup hosted by UpScale at KPMG about cross-platform technologies, discussing the business values that Flutter can bring to a company.
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/6487ab06-a0a4-42d1-98a1-66f402c039f9" alt="drawing" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/6487ab06-a0a4-42d1-98a1-66f402c039f9" alt="drawing" width="300"/>
 </p>
 
 
 #### [Flutter Abu Dhabi & Dubai Meetup #6 - Ask Pawan Anything - 10/2023](https://www.youtube.com/watch?v=htXh_-t8QjY&t=1988s&ab_channel=Codepur)
 Co-organized and participated as a panelist in our first online meetup where we hosted one of the most influential Flutter and Dart Google Develop Experts, [Pawan (@imthepk)](https://twitter.com/imthepk) from India, spending **2 hours answering questions** from the community and helping their Flutter learning journey.
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/871d2cd3-e920-4036-b03b-4526c349b977" alt="drawing" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/871d2cd3-e920-4036-b03b-4526c349b977" alt="drawing" width="300"/>
 </p>
 
 #### [Flutter Abu Dhabi & Dubai Meetup #5 at Wio bank  - 08/2023](https://www.meetup.com/flutter-ad/events/295092425/?chapterContext=true&regToRsvp=true&isFromReg=true)
 Co-organized the event with **60+ participants** where I also gave a workshop about system design. 
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/533ff2e2-674b-4f68-aff9-d714eff1b15d" alt="drawing" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/533ff2e2-674b-4f68-aff9-d714eff1b15d" alt="drawing" width="300"/>
 </p>
 
 #### [Keynote: Embedding Flutter in Flutter Abu Dhabi & Dubai Meetup #4 at talabat - 06/2023](https://www.linkedin.com/posts/flutter-ad_flutteruae-activity-7069350020067508224-Wt-6?utm_source=share&utm_medium=member_desktop)
 I co-organized the **4th meetup of Flutter Abu Dhabi and Dubai** in the new **talabat HQ** with more than **100+ participants** from UAE, UK, India, Pakistan, and Oman __(150 registered attendees with 70+ waiting list)__. I had the opportunity to kick off the event with my keynote on how to integrate Flutter with native mobile applications.
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/52ca380f-e58e-47e9-9d31-8a1a02c97362" width="400" alt=""/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/52ca380f-e58e-47e9-9d31-8a1a02c97362" width="300" alt=""/>
 </p>
 
 
@@ -68,74 +80,80 @@ I co-organized the **4th meetup of Flutter Abu Dhabi and Dubai** in the new **ta
 I presented a workshop on Flutter development, covering List widgets, Asynchronous programming in Dart, and connecting a REST API to a basic UI. The code sample is available in the following [Github repository](https://github.com/flutter-uae/flutter-intro-movie-app).
 - [Social announcement](https://www.linkedin.com/posts/gdsc-bce-patna_flutterforwardextended-flutterforwardextendedindiagoogle-activity-7047259178515525632-X1UK?utm_source=share&utm_medium=member_desktop)
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/0cd6806d-a441-47d9-a8a4-6b15d9938085" width="400" alt=""/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/0cd6806d-a441-47d9-a8a4-6b15d9938085" width="300" alt=""/>
 </p>
 
 #### [Flutter Forward Extended meetup at Innovaccer - 03/2023](https://www.linkedin.com/posts/flutter-ad_we-still-cant-get-over-how-great-yesterdays-activity-7035605328784207872-5ebD?utm_source=share&utm_medium=member_desktop)
 I co-organized one event for the Flutter Abu Dhabi and Dubai community by collaborating with Innovaccer and giving a technical quiz game activity for **60+ participants**.
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/46967774-7ebc-4ecd-83de-c1f740058e8b" width="400" alt=""/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/46967774-7ebc-4ecd-83de-c1f740058e8b" width="300" alt=""/>
 </p>
 
 #### [Flutter at World Expo 2020 Dubai - 10/2022](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
 In the first ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-organized, I shared the story of how flutter gave me the opportunity to be a part of a worldwide event. How we built an end-to-end food delivery app by using Flutter for the **24 million visitors** of Dubai Expo 2020 in **5 months**. Slides are available in the following link.
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8e845c6b-d18c-4889-87e9-e03052d8d9f7" width="400" alt=""/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8e845c6b-d18c-4889-87e9-e03052d8d9f7" width="300" alt=""/>
 </p>
 
 #### [Say Hi to Flutter 3 - 05/2022](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
 I presented at the recent online meetup, "HELLO FLUTTER" which was dedicated entirely to the framework.
 ‍My presentation was titled "Say Hi to Flutter 3". I reviewed the content of the recently announced Flutter 3.0 with the audience while also analyzing what the future holds for this increasingly popular framework. 📈 Slides are available [here](https://speakerdeck.com/gerfalcon/csongor-vogel-flutter-3-0).
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/6eea698c-9f20-4a5c-a443-7a371a1d371a" width="400" alt=""/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/6eea698c-9f20-4a5c-a443-7a371a1d371a" width="300" alt=""/>
 </p>
 
 #### [How to make your Flutter app accessible - 12/2021](https://youtu.be/VmB_KLk28f8?t=5)
 I presented this talk at the December 2021 installment of the HWSW free! Meetup series (online) in Hungarian.
 Slides are available [here](https://speakerdeck.com/gerfalcon/how-to-make-your-flutter-app-accessible). Code samples are here in the following [Link](https://github.com/gerfalcon/flutter_l10n_a11y_sample/tree/master). Recording on [YouTube](https://youtu.be/VmB_KLk28f8?t=5)
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/b6dcbfc9-8a6f-4cd5-9392-86ea8234e9c4" width="400" alt=""/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/b6dcbfc9-8a6f-4cd5-9392-86ea8234e9c4" width="300" alt=""/>
 </p>
 
 #### [Hey Google, Flutter Web or Angular? - 08/2021](https://youtu.be/MQ7wdwjABHs?t=1787)
 With my web developer colleague, we compared the Flutter Web and Angular frameworks based on several aspects, including Navigation, SEO, Responsive UI, or State Management.
 Our presentation was hosted HWSW free! Meetup series (online) in Hungarian and our talk was recorded and available on the [HWSW YT channel](https://youtu.be/MQ7wdwjABHs?t=1787).
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/7b93eb3b-7b8d-426d-9a74-13f3ac83da3d" width="400" alt=""/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/7b93eb3b-7b8d-426d-9a74-13f3ac83da3d" width="300" alt=""/>
 </p>
 
 #### [The future of Flutter - 08/2021](https://youtu.be/YV5csJu-8qk)
 I was invited to a round table discussion on the future of Flutter.
 The webinar - organized by Webuni - was held with the assistance of acknowledged industry professionals and will tackle the topics of the usefulness of > Flutter in practice, the advantages and disadvantages of two-in-one solutions, and the potential this framework holds.
 <p align="center">
-<img width="400" alt="The future of Flutter" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8503f350-8c89-40d6-b0ee-bd8e06fe740b">
+<img width="300" alt="The future of Flutter" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8503f350-8c89-40d6-b0ee-bd8e06fe740b">
 </p>
 
 #### [Native versus cross-platform development - 10/2021](https://youtu.be/uMzdXnu0lyQ)
 I got the opportunity to participate in an online round table discussion on cross-platform development.
 <p align="center">
-<img width="400" alt="Native versus cross-platform development" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/4b4b6e77-3316-4f60-9edb-e80c2d3094bc">
+<img width="300" alt="Native versus cross-platform development" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/4b4b6e77-3316-4f60-9edb-e80c2d3094bc">
 </p>
 
 
-### 📝 Publications
-#### [The current state of Flutter in the fintech sector - 2022.01](https://sparks.fintechvilaga.hu/202201)
-I could contribute as a technical writer to the first edition of Fintech Sparks!
+## 📝 Publications
+####  2022.01 [The status of Flutter technology in the financial sector](https://www.ffnext.io/blog/the-status-of-flutter-technology-in-the-financial-sector)
+I could contribute as a technical writer to the first edition of Fintech Sparks! online newspaper.
 In my article, I tackled the buzzing topic of Flutter and a leading neobank, Nubank.
 I built my thoughts on my experiences gathered at an interactive industry roundtable discussion on native
 vs. cross-platform application development.
+- 2022.01 [Article on the Fintech Sparks newspaper](https://fintech.hu/fintech-sparks-2021/)
+- 2022.04.13 [Article](https://www.ffnext.io/blog/the-status-of-flutter-technology-in-the-financial-sector) published on the [ff.next blog](https://www.ffnext.io/flutter)
+![flutter_article_design.png](..%2F..%2FDownloads%2Fflutter_article_design.png)
 
-#### [Flutter Web vs. Angular: An analysis of what to use in 2022 ](https://www.ffnext.io/blog/flutter-web-vs-angular-a-comprehensive-analysis-of-what-to-use-in-2022) 
+
+####  2022.01.26 [Flutter Web vs. Angular: An analysis of what to use in 2022 ](https://www.ffnext.io/blog/flutter-web-vs-angular-a-comprehensive-analysis-of-what-to-use-in-2022) 
 The purpose of this article is to provide up-to-date information by comparing these systems to developers
 who are wondering where to head in 2022 in the seemingly endless maze of creating web applications.
+- [Article](https://www.ffnext.io/blog/flutter-web-vs-angular-a-comprehensive-analysis-of-what-to-use-in-2022)
 <p align="center">
-<img width="400" alt="Flutter Web vs. Angular" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/34dc8aef-601b-4ab3-9de1-d5b0b194ea44">
+<img width="500" alt="Flutter Web vs. Angular" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/34dc8aef-601b-4ab3-9de1-d5b0b194ea44">
 </p>
 
-#### [What is Flutter and why is it a great tool for developers?](https://www.ffnext.io/blog/what-is-flutter-and-why-is-it-a-great-tool-for-developers)
-In this article, I gathered with one of my #flutterdev colleagues what we love about Flutter. 
+#### 2021.08.18 [What is Flutter and why is it a great tool for developers?](https://www.ffnext.io/blog/what-is-flutter-and-why-is-it-a-great-tool-for-developers)
+In this article, I gathered with my flutter developer colleagues what we love about Flutter. 
+- [Article](https://www.ffnext.io/blog/what-is-flutter-and-why-is-it-a-great-tool-for-developers)
 <p align="center">
-<img width="400" alt="What is Flutter and why is it a great tool for developer" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/9e12d5c2-410f-4764-b27d-513f39a4f33f">
+<img width="500" alt="What is Flutter and why is it a great tool for developer" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/9e12d5c2-410f-4764-b27d-513f39a4f33f">
 </p>
 
 ### ⚡ Fun fact!
