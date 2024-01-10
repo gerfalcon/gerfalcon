@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Csongor (@GerfalconVogel)🐦</h1>
 
 
-#### I'm a Dubai-based Hungarian Senior Mobile Engineer leading the Flutter chapter [@Talabat](https://github.com/talabat-dhme) and co-organizing the [Flutter Abu Dhabi and Dubai](https://www.meetup.com/flutter-ad/) community. 🇦🇪 💙
+#### I'm a Dubai-based Hungarian Senior Mobile Engineer leading the Flutter migration at [@Talabat](https://github.com/talabat-dhme), the largest food delivery app (2+ million daily users) in the Middle East. 
+#### In my current role, I’m responsible for mentoring over 50 mobile engineers at the chapter level, enabling them to transition to Flutter, architecting the core of our Flutter codebase, and identifying Flutter talent globally for the company.
+
+#### Additionally, I co-organize the [Flutter Abu Dhabi and Dubai](https://www.meetup.com/flutter-ad/) community. 💙🇦🇪
 #### I enjoy sharing my knowledge by mentoring developers, speaking at conferences and meetups, and contributing to the curriculum and organization of 🇭🇺 Hungary's first Flutter University class.
 
 <h4 align="left">📫 Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/gerfalconvogel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gerfalconvogel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/csongorvogel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="csongor vogel" height="30" width="40" /></a>
-<a href="https://instagram.com/gerfalcon_vogel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gerfalcon_vogel" height="30" width="40" /></a>
+<a href="https://twitter.com/gerfalconvogel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gerfalconvogel" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/csongorvogel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="csongor vogel" height="20" width="30" /></a>
+<a href="https://instagram.com/gerfalcon_vogel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gerfalcon_vogel" height="20" width="30" /></a>
 </p>
 
 ##### gerfalcon.vogel@gmail.com
@@ -57,7 +60,7 @@ Co-organized the event with **60+ participants** where I also gave a workshop ab
 #### [Keynote: Embedding Flutter in Flutter Abu Dhabi & Dubai Meetup #4 at talabat - 06/2023](https://www.linkedin.com/posts/flutter-ad_flutteruae-activity-7069350020067508224-Wt-6?utm_source=share&utm_medium=member_desktop)
 I co-organized the **4th meetup of Flutter Abu Dhabi and Dubai** in the new **talabat HQ** with more than **100+ participants** from UAE, UK, India, Pakistan, and Oman __(150 registered attendees with 70+ waiting list)__. I had the opportunity to kick off the event with my keynote on how to integrate Flutter with native mobile applications.
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/52ca380f-e58e-47e9-9d31-8a1a02c97362" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/52ca380f-e58e-47e9-9d31-8a1a02c97362" width="400" alt=""/>
 </p>
 
 
@@ -65,40 +68,40 @@ I co-organized the **4th meetup of Flutter Abu Dhabi and Dubai** in the new **ta
 I presented a workshop on Flutter development, covering List widgets, Asynchronous programming in Dart, and connecting a REST API to a basic UI. The code sample is available in the following [Github repository](https://github.com/flutter-uae/flutter-intro-movie-app).
 - [Social announcement](https://www.linkedin.com/posts/gdsc-bce-patna_flutterforwardextended-flutterforwardextendedindiagoogle-activity-7047259178515525632-X1UK?utm_source=share&utm_medium=member_desktop)
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/0cd6806d-a441-47d9-a8a4-6b15d9938085" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/0cd6806d-a441-47d9-a8a4-6b15d9938085" width="400" alt=""/>
 </p>
 
 #### [Flutter Forward Extended meetup at Innovaccer - 03/2023](https://www.linkedin.com/posts/flutter-ad_we-still-cant-get-over-how-great-yesterdays-activity-7035605328784207872-5ebD?utm_source=share&utm_medium=member_desktop)
 I co-organized one event for the Flutter Abu Dhabi and Dubai community by collaborating with Innovaccer and giving a technical quiz game activity for **60+ participants**.
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/46967774-7ebc-4ecd-83de-c1f740058e8b" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/46967774-7ebc-4ecd-83de-c1f740058e8b" width="400" alt=""/>
 </p>
 
 #### [Flutter at World Expo 2020 Dubai - 10/2022](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
 In the first ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-organized, I shared the story of how flutter gave me the opportunity to be a part of a worldwide event. How we built an end-to-end food delivery app by using Flutter for the **24 million visitors** of Dubai Expo 2020 in **5 months**. Slides are available in the following link.
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8e845c6b-d18c-4889-87e9-e03052d8d9f7" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8e845c6b-d18c-4889-87e9-e03052d8d9f7" width="400" alt=""/>
 </p>
 
 #### [Say Hi to Flutter 3 - 05/2022](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
 I presented at the recent online meetup, "HELLO FLUTTER" which was dedicated entirely to the framework.
 ‍My presentation was titled "Say Hi to Flutter 3". I reviewed the content of the recently announced Flutter 3.0 with the audience while also analyzing what the future holds for this increasingly popular framework. 📈 Slides are available [here](https://speakerdeck.com/gerfalcon/csongor-vogel-flutter-3-0).
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/6eea698c-9f20-4a5c-a443-7a371a1d371a" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/6eea698c-9f20-4a5c-a443-7a371a1d371a" width="400" alt=""/>
 </p>
 
 #### [How to make your Flutter app accessible - 12/2021](https://youtu.be/VmB_KLk28f8?t=5)
 I presented this talk at the December 2021 installment of the HWSW free! Meetup series (online) in Hungarian.
 Slides are available [here](https://speakerdeck.com/gerfalcon/how-to-make-your-flutter-app-accessible). Code samples are here in the following [Link](https://github.com/gerfalcon/flutter_l10n_a11y_sample/tree/master). Recording on [YouTube](https://youtu.be/VmB_KLk28f8?t=5)
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/b6dcbfc9-8a6f-4cd5-9392-86ea8234e9c4" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/b6dcbfc9-8a6f-4cd5-9392-86ea8234e9c4" width="400" alt=""/>
 </p>
 
 #### [Hey Google, Flutter Web or Angular? - 08/2021](https://youtu.be/MQ7wdwjABHs?t=1787)
 With my web developer colleague, we compared the Flutter Web and Angular frameworks based on several aspects, including Navigation, SEO, Responsive UI, or State Management.
 Our presentation was hosted HWSW free! Meetup series (online) in Hungarian and our talk was recorded and available on the [HWSW YT channel](https://youtu.be/MQ7wdwjABHs?t=1787).
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/7b93eb3b-7b8d-426d-9a74-13f3ac83da3d" width="400"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/7b93eb3b-7b8d-426d-9a74-13f3ac83da3d" width="400" alt=""/>
 </p>
 
 #### [The future of Flutter - 08/2021](https://youtu.be/YV5csJu-8qk)
