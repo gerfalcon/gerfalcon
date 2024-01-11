@@ -196,7 +196,9 @@ I built my thoughts on my experiences gathered at an interactive industry roundt
 vs. cross-platform application development.
 - 2022.01 [Article on the Fintech Sparks newspaper](https://fintech.hu/fintech-sparks-2021/)
 - 2022.04.13 [Article](https://www.ffnext.io/blog/the-status-of-flutter-technology-in-the-financial-sector) published on the [ff.next blog](https://www.ffnext.io/flutter)
-![flutter_article_design.png](..%2F..%2FDownloads%2Fflutter_article_design.png)
+<p align="center">
+<img width="500" alt="Flutter Web vs. Angular" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/029fa48f-c8cc-453e-b4e4-044737b97028">
+</p>
 
 
 ####  2022.01.26 [Flutter Web vs. Angular: An analysis of what to use in 2022 ](https://www.ffnext.io/blog/flutter-web-vs-angular-a-comprehensive-analysis-of-what-to-use-in-2022) 
