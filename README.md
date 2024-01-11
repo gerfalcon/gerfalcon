@@ -102,7 +102,7 @@ During the workshop, I covered topics like synchronous and asynchronous programm
 - [Meetup event](https://gdsc.community.dev/events/details/developer-student-clubs-bakhtiyarpur-college-of-engineering-patna-presents-advanced-concepts-in-flutter/)
 - [Code samples](https://github.com/flutter-uae/flutter-intro-movie-app)
 - [Social announcement](https://www.linkedin.com/posts/gdsc-bce-patna_flutterforwardextended-flutterforwardextendedindiagoogle-activity-7047259178515525632-X1UK?utm_source=share&utm_medium=member_desktop)
-- Slides (soon)
+- [Slides (Speaker Deck)](https://speakerdeck.com/gerfalcon/flutter-introduction)
 - Attendees: **80+** online
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/0cd6806d-a441-47d9-a8a4-6b15d9938085" width="300" alt=""/>
@@ -118,18 +118,18 @@ I co-organized this event for the Flutter Abu Dhabi and Dubai community by colla
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/46967774-7ebc-4ecd-83de-c1f740058e8b" width="300" alt=""/>
 </p>
 
-#### 2022.10.22 Giving a talk about [Flutter at World Expo 2020 Dubai](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
+#### 2022.10.22 [Flutter at World Expo 2020 Dubai](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
 In the first ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-organized, I shared the story of how flutter gave me the opportunity to be a part of a worldwide event. How we built an end-to-end food delivery app by using Flutter for the **24 million visitors** of Dubai Expo 2020 in **5 months**. Slides are available in the following link.
-- Video recording (not edited)
-- Slides (Speaker Deck)
+- [Video recording](https://drive.google.com/file/d/1PtQj9KFFHlHqC0oojM9ny6wBYiI1FDIC/view?usp=sharing)
+- [Slides (Speaker Deck)](https://speakerdeck.com/gerfalcon/flutter-at-world-expo-2020-dubai)
 - [Meetup link](https://www.meetup.com/flutter-ad/events/288648552/)
 - [Social announcement](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
-- Attendees: 70+ in-person
+- Attendees: 65+ in-person
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8e845c6b-d18c-4889-87e9-e03052d8d9f7" width="300" alt=""/>
 </p>
 
-#### 2022.05.26 Giving a talk about [Say Hi to Flutter 3](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
+#### 2022.05.26 [Say Hi to Flutter 3](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
 I presented at the recent online meetup, "_HELLO FLUTTER_" which was dedicated entirely to the framework.
 ‍My presentation was titled "_Say Hi to Flutter 3_". I reviewed the content of the recently announced **[Flutter 3.0](https://medium.com/flutter/whats-new-in-flutter-3-8c74a5bc32d0)** with the audience while also analyzing what the future holds for this increasingly popular framework. 📈 Slides are available [here](https://speakerdeck.com/gerfalcon/csongor-vogel-flutter-3-0).
 - [Video recording](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
@@ -140,7 +140,7 @@ I presented at the recent online meetup, "_HELLO FLUTTER_" which was dedicated e
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/6eea698c-9f20-4a5c-a443-7a371a1d371a" width="300" alt=""/>
 </p>
 
-#### 2021.12.08 Giving a talk about [How to make your Flutter app accessible](https://youtu.be/VmB_KLk28f8?t=5)
+#### 2021.12.08 [How to make your Flutter app accessible](https://youtu.be/VmB_KLk28f8?t=5)
 I created a Flutter project to showcase the implementation of localization and accessibility features.
 I presented this project during my talk on "How to make your Flutter app accessible" at an online Meetup event organized by HWSW  held in Hungarian.
 - [Video recording](https://www.youtube.com/watch?v=VmB_KLk28f8&t=36s&ab_channel=HWSW)
@@ -179,7 +179,7 @@ During the session, we compared the technologies of native mobile applications w
 I represented Flutter in this debate, while there was an iOS engineer and a product owner on the other side.
 - [Video recording](https://youtu.be/uMzdXnu0lyQ?t=111)
 - [Podcast link](https://open.spotify.com/episode/2qg84ZMFF299QqQk1TPni0?si=1cbd0a7f487b4954)
-- Attendees: 300+ online
+- Attendees: 330+ online
 <p align="center">
 <img width="300" alt="Native versus cross-platform development" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/4b4b6e77-3316-4f60-9edb-e80c2d3094bc">
 </p>
