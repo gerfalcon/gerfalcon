@@ -17,7 +17,7 @@
 ##### gerfalcon.vogel@gmail.com
 
 ## 🎓 Flutter University class in Hungary 
-In 2020, I co-created Hungary's first [Flutter University class](https://github.com/bmeaut/VIAUAV45) at the [Budapest University of Technology and Economics](https://www.bme.hu/?language=en). At present, I’m still lecturing and have taught over **700+** computer software engineering students in **6 semesters**, providing them with a strong foundation to start their careers in Dart and Flutter. 💙
+In 2020, I co-created Hungary's first [Flutter University class](https://github.com/bmeaut/VIAUAV45) at the [Budapest University of Technology and Economics](https://www.bme.hu/?language=en). At present, I’m still lecturing and have taught over **750+** computer software engineering students in **6 semesters**, providing them with a strong foundation to start their careers in Dart and Flutter. 💙
 Recently, we convinced the University to make the materials open source, and I aim to keep improving and sharing them with the wider community.
 - [GitHub - University Material for the Flutter-based Software Development subject](https://github.com/bmeaut/VIAUAV45)
 - Impact: **720+** people trained
