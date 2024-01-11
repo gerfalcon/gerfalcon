@@ -73,7 +73,7 @@ Co-organized and participated as a panelist in our first online meetup where we 
 </p>
 
 #### 2023.08.11 [Giving a workshop in Flutter Abu Dhabi & Dubai Meetup #5 at Wio bank](https://youtu.be/yo3rqk2jg8U?t=8062)
-Co-organized the event with **60+ participants** where I also gave a workshop about system design. 
+I co-organized the event with **60+ participants** where I also gave a workshop about system design. 
 - [Video recording](https://youtu.be/yo3rqk2jg8U?t=8062)
 - [Workshop Material (Drive)](https://drive.google.com/file/d/1baa3XhTGIWalNQnpZk24p9ZvmXVWOred/view?usp=sharing)
 - [Meetup link](https://www.meetup.com/flutter-ad/events/295092425/?chapterContext=true&regToRsvp=true&isFromReg=true)
@@ -85,7 +85,7 @@ Co-organized the event with **60+ participants** where I also gave a workshop ab
 
 #### 2023.06.03 [Keynote: Embedding Flutter](https://www.linkedin.com/posts/flutter-ad_flutteruae-activity-7069350020067508224-Wt-6?utm_source=share&utm_medium=member_desktop)  in Flutter Abu Dhabi & Dubai Meetup #4 at talabat
 I co-organized the **4th meetup of Flutter Abu Dhabi and Dubai** in the new **talabat HQ** with more than **110+ participants** from UAE, UK, India, Pakistan, and Oman.
-I had the opportunity to kick off the event with my keynote on how to integrate Flutter with native mobile applications showcasing the [add-to-app](https://docs.flutter.dev/add-to-app) approach that we use at talabat in our Flutter migration.
+I had the opportunity to kick off the event with my keynote on how to integrate Flutter with native mobile applications, showcasing the [add-to-app](https://docs.flutter.dev/add-to-app) approach that we use at talabat in our Flutter migration.
 - Video recording (soon)
 - Slides (soon)
 - [Meetup link](https://www.meetup.com/flutter-ad/events/293369228/)
@@ -98,7 +98,7 @@ I had the opportunity to kick off the event with my keynote on how to integrate 
 
 ####  2023.04.02 [Introducing Flutter to University students in India during Flutter Forward Extended with BCE Patna](https://gdsc.community.dev/events/details/developer-student-clubs-bakhtiyarpur-college-of-engineering-patna-presents-advanced-concepts-in-flutter/)
 In April 2023, I gave an online workshop on Flutter development in collaboration with 7 GDSC groups during Flutter Forward Extended with BCE Patna. Over 80 university students attended the workshop.
-During the workshop, I covered topics like synchronous and asynchronous programming in Dart, understanding REST API calls and integrating one response to a basic UI.
+During the workshop, I covered topics like synchronous and asynchronous programming in Dart, understanding REST API calls, and integrating one response to a basic UI.
 - [Meetup event](https://gdsc.community.dev/events/details/developer-student-clubs-bakhtiyarpur-college-of-engineering-patna-presents-advanced-concepts-in-flutter/)
 - [Code samples](https://github.com/flutter-uae/flutter-intro-movie-app)
 - [Social announcement](https://www.linkedin.com/posts/gdsc-bce-patna_flutterforwardextended-flutterforwardextendedindiagoogle-activity-7047259178515525632-X1UK?utm_source=share&utm_medium=member_desktop)
@@ -108,7 +108,7 @@ During the workshop, I covered topics like synchronous and asynchronous programm
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/0cd6806d-a441-47d9-a8a4-6b15d9938085" width="300" alt=""/>
 </p>
 
-#### 2023.02.25 [Giving a technical quiz game activty in Flutter Forward Extended meetup at Innovaccer](https://www.linkedin.com/posts/flutter-ad_we-still-cant-get-over-how-great-yesterdays-activity-7035605328784207872-5ebD?utm_source=share&utm_medium=member_desktop)
+#### 2023.02.25 [Giving a technical quiz game activity in Flutter Forward Extended meetup at Innovaccer](https://www.linkedin.com/posts/flutter-ad_we-still-cant-get-over-how-great-yesterdays-activity-7035605328784207872-5ebD?utm_source=share&utm_medium=member_desktop)
 I co-organized this event for the Flutter Abu Dhabi and Dubai community by collaborating with Innovaccer and giving a technical quiz game activity for **50+ participants**.
 - [Meetup link](https://www.meetup.com/flutter-ad/events/291592951/)
 - [Code samples of the technical Quiz](https://github.com/gerfalcon/FlutterSamples/blob/main/README.md) 
@@ -119,7 +119,7 @@ I co-organized this event for the Flutter Abu Dhabi and Dubai community by colla
 </p>
 
 #### 2022.10.22 [Flutter at World Expo 2020 Dubai](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
-In the first ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-organized, I shared the story of how flutter gave me the opportunity to be a part of a worldwide event. How we built an end-to-end food delivery app by using Flutter for the **24 million visitors** of Dubai Expo 2020 in **5 months**. Slides are available in the following link.
+In the first ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-organized, I shared the story of how Flutter gave me the opportunity to be a part of a worldwide event, how we built an end-to-end food delivery app by using Flutter for the **24 million visitors** of Dubai Expo 2020 in **5 months**. Slides are available in the following link.
 - [Video recording](https://drive.google.com/file/d/1PtQj9KFFHlHqC0oojM9ny6wBYiI1FDIC/view?usp=sharing)
 - [Video recording (youtube)](https://youtu.be/37IL2cRdQwc)
 - [Slides (Speaker Deck)](https://speakerdeck.com/gerfalcon/flutter-at-world-expo-2020-dubai)
@@ -175,9 +175,9 @@ The webinar - organized by Webuni - was held with the assistance of acknowledged
 </p>
 
 ####  2021.10.07 [Native versus cross-platform development](https://youtu.be/uMzdXnu0lyQ?t=111)
-I had the chance to take part in a virtual round table discussion organized by Webuni.
+I had the chance to participate in a virtual round table discussion organized by Webuni.
 During the session, we compared the technologies of native mobile applications with cross-platform approaches.
-I represented Flutter in this debate, while there was an iOS engineer and a product owner on the other side.
+I represented Flutter in this debate, while an iOS engineer and a product owner were on the other side.
 - [Video recording](https://youtu.be/uMzdXnu0lyQ?t=111)
 - [Podcast link](https://open.spotify.com/episode/2qg84ZMFF299QqQk1TPni0?si=1cbd0a7f487b4954)
 - Attendees: 330+ online
@@ -188,7 +188,7 @@ I represented Flutter in this debate, while there was an iOS engineer and a prod
 
 ## 📝 Publications
 ####  2022.01 [The status of Flutter technology in the financial sector](https://www.ffnext.io/blog/the-status-of-flutter-technology-in-the-financial-sector)
-I could contribute as a technical writer to the first edition of Fintech Sparks! online newspaper.
+I could contribute as a technical writer to the first edition of Fintech Sparks! Online newspaper.
 In my article, I tackled the buzzing topic of Flutter and a leading neobank, Nubank.
 I built my thoughts on my experiences gathered at an interactive industry roundtable discussion on native
 vs. cross-platform application development.
@@ -206,7 +206,7 @@ who are wondering where to head in 2022 in the seemingly endless maze of creatin
 </p>
 
 #### 2021.08.18 [What is Flutter and why is it a great tool for developers?](https://www.ffnext.io/blog/what-is-flutter-and-why-is-it-a-great-tool-for-developers)
-In this article, I gathered with my flutter developer colleagues what we love about Flutter. 
+In this article, I gathered with my Flutter developer colleagues what we love about Flutter. 
 - [Article](https://www.ffnext.io/blog/what-is-flutter-and-why-is-it-a-great-tool-for-developers)
 <p align="center">
 <img width="500" alt="What is Flutter and why is it a great tool for developer" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/9e12d5c2-410f-4764-b27d-513f39a4f33f">
