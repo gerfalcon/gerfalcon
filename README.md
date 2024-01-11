@@ -31,7 +31,7 @@ Recently, we convinced the University to make the materials open source, and I a
 
 ## 🌍 Conferences
 #### 2023.07.09 - Fluttercon Berlin 23 - [The Joy of Functional Programming in Dart](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/)
-At [Fluttercon 23](https://fluttercon.dev/) with over **1000+ developers and 75 talks and workshops over 3 days**, I had the chance to showcase how Dart, our favorite language, supports functional programming.
+At [Fluttercon 23](https://fluttercon.dev/), with over **1000+ developers and 75 talks and workshops over 3 days**, I had the chance to showcase how Dart, our favorite language, supports functional programming.
 The topic generated a lot of discussion, and my talk was [**referenced** in the official Dart team's **Dart v3.1 retrospective**](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda).
 - [Video recording](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/)
 - [Slides (Speaker Deck)](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23)
@@ -74,7 +74,7 @@ Co-organized and participated as a panelist in our first online meetup where we 
 </p>
 
 #### 2023.08.11 [Giving a workshop in Flutter Abu Dhabi & Dubai Meetup #5 at Wio bank](https://youtu.be/yo3rqk2jg8U?t=8062)
-I co-organized the event with **60+ participants** where I also gave a workshop about system design. 
+I co-organized an event with over 60+ participants and conducted a workshop on system design. The task was to visualize their next Flutter application, provide preferred architecture, and recommend their favorite packages.
 - [Video recording](https://youtu.be/yo3rqk2jg8U?t=8062)
 - [Workshop Material (Drive)](https://drive.google.com/file/d/1baa3XhTGIWalNQnpZk24p9ZvmXVWOred/view?usp=sharing)
 - [Meetup link](https://www.meetup.com/flutter-ad/events/295092425/?chapterContext=true&regToRsvp=true&isFromReg=true)
@@ -86,7 +86,7 @@ I co-organized the event with **60+ participants** where I also gave a workshop 
 
 #### 2023.06.03 [Keynote: Embedding Flutter](https://www.linkedin.com/posts/flutter-ad_flutteruae-activity-7069350020067508224-Wt-6?utm_source=share&utm_medium=member_desktop)  in Flutter Abu Dhabi & Dubai Meetup #4 at talabat
 I co-organized the **4th meetup of Flutter Abu Dhabi and Dubai** in the new **talabat HQ** with more than **110+ participants** from UAE, UK, India, Pakistan, and Oman.
-I had the opportunity to kick off the event with my keynote on how to integrate Flutter with native mobile applications, showcasing the [add-to-app](https://docs.flutter.dev/add-to-app) approach that we use at talabat in our Flutter migration.
+I had the opportunity to kick off the event with my keynote on integrating Flutter with native mobile applications, showcasing the [add-to-app](https://docs.flutter.dev/add-to-app) approach we use at talabat in our Flutter migration.
 - Video recording (soon)
 - Slides (soon)
 - [Meetup link](https://www.meetup.com/flutter-ad/events/293369228/)
@@ -99,7 +99,7 @@ I had the opportunity to kick off the event with my keynote on how to integrate 
 
 ####  2023.04.02 [Introducing Flutter to University students in India during Flutter Forward Extended with BCE Patna](https://gdsc.community.dev/events/details/developer-student-clubs-bakhtiyarpur-college-of-engineering-patna-presents-advanced-concepts-in-flutter/)
 In April 2023, I gave an online workshop on Flutter development in collaboration with 7 GDSC groups during Flutter Forward Extended with BCE Patna. Over 80 university students attended the workshop.
-During the workshop, I covered topics like synchronous and asynchronous programming in Dart, understanding REST API calls, and integrating one response to a basic UI.
+During the workshop, I covered topics like synchronous and asynchronous programming in Dart, understanding REST API calls, and integrating one response into a basic UI.
 - [Meetup event](https://gdsc.community.dev/events/details/developer-student-clubs-bakhtiyarpur-college-of-engineering-patna-presents-advanced-concepts-in-flutter/)
 - [Code samples](https://github.com/flutter-uae/flutter-intro-movie-app)
 - [Social announcement](https://www.linkedin.com/posts/gdsc-bce-patna_flutterforwardextended-flutterforwardextendedindiagoogle-activity-7047259178515525632-X1UK?utm_source=share&utm_medium=member_desktop)
@@ -120,7 +120,7 @@ I co-organized this event for the Flutter Abu Dhabi and Dubai community by colla
 </p>
 
 #### 2022.10.22 [Flutter at World Expo 2020 Dubai](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
-In the first ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-organized, I shared the story of how Flutter gave me the opportunity to be a part of a worldwide event, how we built an end-to-end food delivery app by using Flutter for the **24 million visitors** of Dubai Expo 2020 in **5 months**. Slides are available in the following link.
+In the first-ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-organized, I shared the story of how Flutter gave me the opportunity to be a part of a worldwide event, how we built an end-to-end food delivery app by using Flutter for the **24 million visitors** of Dubai Expo 2020 in **5 months**. Slides are available in the following link.
 - [Video recording](https://drive.google.com/file/d/1PtQj9KFFHlHqC0oojM9ny6wBYiI1FDIC/view?usp=sharing)
 - [Video recording](https://youtu.be/37IL2cRdQwc)
 - [Slides (Speaker Deck)](https://speakerdeck.com/gerfalcon/flutter-at-world-expo-2020-dubai)
@@ -132,8 +132,8 @@ In the first ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/res
 </p>
 
 #### 2022.05.26 [Say Hi to Flutter 3](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
-I presented at the recent online meetup, "_HELLO FLUTTER_" which was dedicated entirely to the framework.
-‍My presentation was titled "_Say Hi to Flutter 3_". I reviewed the content of the recently announced **[Flutter 3.0](https://medium.com/flutter/whats-new-in-flutter-3-8c74a5bc32d0)** with the audience while also analyzing what the future holds for this increasingly popular framework. 📈 Slides are available [here](https://speakerdeck.com/gerfalcon/csongor-vogel-flutter-3-0).
+I presented at a Hungarian online meetup, "_HELLO FLUTTER_" which was dedicated entirely to Flutter.
+‍My presentation was titled "_Say Hi to Flutter 3_". I reviewed the content of the recently announced **[Flutter 3.0](https://medium.com/flutter/whats-new-in-flutter-3-8c74a5bc32d0)** with the audience while also analyzing the future of our increasingly popular framework.
 - [Video recording](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
 - [Slides (Speaker Deck)](https://speakerdeck.com/gerfalcon/csongor-vogel-flutter-3-0)
 - [Meetup link](https://rendezveny.hwsw.hu/free/74/flutter-mobil-web-fejlesztes-meetup/)
@@ -143,8 +143,8 @@ I presented at the recent online meetup, "_HELLO FLUTTER_" which was dedicated e
 </p>
 
 #### 2021.12.08 [How to make your Flutter app accessible](https://youtu.be/VmB_KLk28f8?t=5)
-I created a Flutter project to showcase the implementation of localization and accessibility features.
-I presented this project during my talk on "How to make your Flutter app accessible" at an online Meetup event organized by HWSW  held in Hungarian.
+I created a Flutter project to showcase the implementation of localization and accessibility features. 
+I presented this project during my talk on "How to make your Flutter app accessible" at an online Meetup event organized by HWSW and held in Hungary.
 - [Video recording](https://www.youtube.com/watch?v=VmB_KLk28f8&t=36s&ab_channel=HWSW)
 - [Slides (Speaker Deck)](https://speakerdeck.com/gerfalcon/how-to-make-your-flutter-app-accessible)
 - [Code samples](https://github.com/gerfalcon/flutter_l10n_a11y_sample/tree/master)
@@ -156,8 +156,7 @@ I presented this project during my talk on "How to make your Flutter app accessi
 </p>
 
 #### 2021.11.29 [Hey Google, Flutter Web or Angular?](https://youtu.be/KzNtY_dtYSg)
-With my web developer colleague, we compared the Flutter Web and Angular frameworks based on several aspects, including Navigation, SEO, Responsive UI, or State Management.
-Our presentation was hosted HWSW free! Meetup series (online) in Hungarian.
+During an online meetup for web developers, I convinced the organizers to include Flutter Web on the agenda. Together with my colleague, a web developer, we compared the Flutter Web and Angular frameworks regarding Navigation, SEO, Responsive UI, and State Management. Our presentation was hosted in the HWSW free Meetup series, held online and conducted in Hungarian.
 - [Video recording (the whole event meetup)](https://youtu.be/MQ7wdwjABHs?t=1862)
 - [Video recording](https://youtu.be/KzNtY_dtYSg)
 - [Meetup link](https://rendezveny.hwsw.hu/free/65/webfejlesztes-meetup)
