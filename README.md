@@ -154,13 +154,13 @@ I presented this project during my talk on "How to make your Flutter app accessi
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/b6dcbfc9-8a6f-4cd5-9392-86ea8234e9c4" width="300" alt=""/>
 </p>
 
-#### 2021.11.29 [Hey Google, Flutter Web or Angular?](https://youtu.be/MQ7wdwjABHs?t=1787)
+#### 2021.11.29 [Hey Google, Flutter Web or Angular?](https://youtu.be/KzNtY_dtYSg)
 With my web developer colleague, we compared the Flutter Web and Angular frameworks based on several aspects, including Navigation, SEO, Responsive UI, or State Management.
 Our presentation was hosted HWSW free! Meetup series (online) in Hungarian.
-- [Video recording](https://youtu.be/MQ7wdwjABHs?t=1787)
+- [Video recording](https://youtu.be/KzNtY_dtYSg)
 - [Meetup link](https://rendezveny.hwsw.hu/free/65/webfejlesztes-meetup)
-- Social announcement
-- Attendees: 2100+ online
+- [Article](https://www.ffnext.io/blog/flutter-web-vs-angular-a-comprehensive-analysis-of-what-to-use-in-2022)
+- Attendees: 1450+ online
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/7b93eb3b-7b8d-426d-9a74-13f3ac83da3d" width="300" alt=""/>
 </p>
