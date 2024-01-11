@@ -20,7 +20,7 @@
 In 2020, I co-created Hungary's first [Flutter University class](https://github.com/bmeaut/VIAUAV45) at the [Budapest University of Technology and Economics](https://www.bme.hu/?language=en). At present, I’m still lecturing and have taught over **750+** computer software engineering students in **6 semesters**, providing them with a strong foundation to start their careers in Dart and Flutter. 💙
 Recently, we convinced the University to make the materials open source, and I aim to keep improving and sharing them with the wider community.
 - [GitHub - University Material for the Flutter-based Software Development subject](https://github.com/bmeaut/VIAUAV45)
-- Impact: **720+** people trained
+- Impact: **750+** people trained
 - Video recordings from 2022:
   - [Chapter 04: Accessibility, Responsive UI](https://youtu.be/mLBj6zqzRdw?si=gdTAt5m0IXfPY3M2)
   - [Chapter 10: Firebase](https://youtu.be/wu5HdeJz-8A?si=aFfobI3Rq-qitQ_1)
