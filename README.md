@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Csongor (@GerfalconVogel)🐦</h1>
+<h1 align="center">Hi 👋, I'm Csongor <a href="https://github.com/gerfalcon">@GerfalconVogel</a> 🐦</h1>
+
 <p align="center">
   <a href="https://github.com/gerfalcon">
     <img alt="GitHub: gerfalcon" src="https://img.shields.io/github/followers/gerfalcon?label=Follow&style=social" target="_blank" />
   </a>
-  <a href="https://twitter.com/SandroMaglione">
+  <a href="https://twitter.com/gerfalcon">
     <img alt="Twitter: gerfalcon" src="https://img.shields.io/twitter/follow/GerfalconVogel?style=social" target="_blank" />
   </a>
 </p>
