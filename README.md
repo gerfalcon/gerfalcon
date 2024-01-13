@@ -63,8 +63,9 @@ After my talk, I received a lot of questions and feedback, which I [could pass o
 
 ## 🗣️ Meetups & Seminars
 #### 2023.11.08 [UpScale Flutter MeetUp: Dive into cross-platform development](https://www.youtube.com/watch?v=-bwXEICHB2Q&ab_channel=UpScale) 
-I was a **panelist** in a Hungarian Flutter meetup hosted by UpScale at KPMG about cross-platform technologies, discussing the business values that Flutter can bring to companies.
+I was a **panelist** in a Hungarian [Flutter Budapest meetup](https://www.meetup.com/flutter-budapest/events/296947492/) hosted by UpScale at KPMG about cross-platform technologies, discussing the business values that Flutter can bring to companies.
 - [Video recording](https://www.youtube.com/watch?v=-bwXEICHB2Q&ab_channel=UpScale)
+- [Meetup link](https://www.meetup.com/flutter-budapest/events/296947492/)
 - [Social announcement](https://www.linkedin.com/feed/update/urn:li:activity:7123691461803397120/?updateEntityUrn=urn:li:fs_feedUpdate:(V2,urn:li:activity:7123691461803397120))
 - Impact: **50+** people attended, **280+** online views
 <p align="center">
