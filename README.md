@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Csongor (@GerfalconVogel)🐦</h1>
-
+<p align="center">
+  <a href="https://github.com/gerfalcon">
+    <img alt="GitHub: gerfalcon" src="https://img.shields.io/github/followers/gerfalcon?label=Follow&style=social" target="_blank" />
+  </a>
+  <a href="https://twitter.com/SandroMaglione">
+    <img alt="Twitter: gerfalcon" src="https://img.shields.io/twitter/follow/GerfalconVogel?style=social" target="_blank" />
+  </a>
+</p>
 
 #### I'm a Dubai-based Hungarian Senior Mobile Engineer leading the Flutter migration at [@Talabat](https://github.com/talabat-dhme), the largest food delivery app (_with 2+ million daily users_) in the Middle East. 
 #### In my current role, I’m responsible for mentoring over 50 mobile engineers at the chapter level, enabling them to transition to Flutter, architecting the core of our Flutter codebase, and identifying Flutter talent globally for the company.
