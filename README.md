@@ -36,8 +36,10 @@ Recently, we convinced the University to make the materials open source, and I a
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/d1af4729-613f-4275-80bd-06e1647fd220" alt="drawing" width="300"/>
 </p>
 
-## 🌍 Conferences
-#### 2023.07.09 - Fluttercon Berlin 23 - [The Joy of Functional Programming in Dart](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/)
+<details open>
+  <summary><h2>🌍 Conferences ⏬</h2></summary>
+
+  #### 2023.07.09 - Fluttercon Berlin 23 - [The Joy of Functional Programming in Dart](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/)
 At [Fluttercon 23](https://fluttercon.dev/), with over **1000+ developers and 75 talks and workshops over 3 days**, I had the chance to showcase how Dart, our favorite language, supports functional programming.
 The topic generated a lot of discussion, and my talk was [**referenced** in the official Dart team's **Dart v3.1 retrospective**](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda).
 - [Video recording](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/)
@@ -60,8 +62,12 @@ After my talk, I received a lot of questions and feedback, which I [could pass o
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/ed9c41ce-bdab-4b19-a15f-7c6b0e6aad7e" alt="drawing" width="300"/>
 </p>
+</details>
 
-## 🗣️ Meetups & Seminars
+
+<details open>
+  <summary><h2>🗣️ Meetups & Workshops ⏬</h2></summary>
+
 #### 2023.11.08 [UpScale Flutter MeetUp: Dive into cross-platform development](https://www.youtube.com/watch?v=-bwXEICHB2Q&ab_channel=UpScale) 
 I was a **panelist** in a Hungarian [Flutter Budapest meetup](https://www.meetup.com/flutter-budapest/events/296947492/) hosted by UpScale at KPMG about cross-platform technologies, discussing the business values that Flutter can bring to companies.
 - [Video recording](https://www.youtube.com/watch?v=-bwXEICHB2Q&ab_channel=UpScale)
@@ -194,8 +200,12 @@ I represented Flutter in this debate, while an iOS engineer and a product owner 
 <img width="300" alt="Native versus cross-platform development" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/4b4b6e77-3316-4f60-9edb-e80c2d3094bc">
 </p>
 
+</details>
 
-## 📝 Publications
+
+<details open>
+  <summary><h2>📝 Publications ⏬</h2></summary>
+  
 ####  2022.01 [The status of Flutter technology in the financial sector](https://www.ffnext.io/blog/the-status-of-flutter-technology-in-the-financial-sector)
 I could contribute as a technical writer to the first edition of Fintech Sparks! Online newspaper.
 In my article, I tackled the buzzing topic of Flutter and a leading neobank, Nubank.
@@ -223,5 +233,7 @@ In this article, I gathered with my Flutter developer colleagues what we love ab
 <img width="500" alt="What is Flutter and why is it a great tool for developer" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/9e12d5c2-410f-4764-b27d-513f39a4f33f">
 </p>
 
+</details>
+
 ### ⚡ Fun fact!
-In my free time, I enjoy listening to and **DJing DnB music**
+In my free time, I enjoy listening to and DJing Drum and Bass (DnB) music.
