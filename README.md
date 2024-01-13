@@ -126,8 +126,8 @@ I co-organized this event for the Flutter Abu Dhabi and Dubai community by colla
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/46967774-7ebc-4ecd-83de-c1f740058e8b" width="300" alt=""/>
 </p>
 
-#### 2022.10.22 [Flutter at World Expo 2020 Dubai](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
-In the first-ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-organized, I shared the story of how Flutter gave me the opportunity to be a part of a worldwide event, how we built an end-to-end food delivery app by using Flutter for the **24 million visitors** of Dubai Expo 2020 in **5 months**. Slides are available in the following link.
+#### 2022.10.22 [Flutter at World Expo 2020 Dubai](https://youtu.be/37IL2cRdQwc)
+In the first-ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/results/content/?keywords=flutter%20UAE&sid=Qjt&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A6990707627630452736%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) that I co-organized, I shared the story of how Flutter gave me the opportunity to be a part of a worldwide event, how we built an end-to-end food delivery app by using Flutter for the **24 million visitors** of [World Expo 2020 Dubai](https://www.expo2020dubai.com/) in **5 months**.
 - [Video recording](https://drive.google.com/file/d/1PtQj9KFFHlHqC0oojM9ny6wBYiI1FDIC/view?usp=sharing)
 - [Video recording](https://youtu.be/37IL2cRdQwc)
 - [Slides (Speaker Deck)](https://speakerdeck.com/gerfalcon/flutter-at-world-expo-2020-dubai)
