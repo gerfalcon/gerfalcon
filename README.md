@@ -73,7 +73,7 @@ I was a **panelist** in a Hungarian Flutter meetup hosted by UpScale at KPMG abo
 
 
 #### 2023.10.31 [Flutter Abu Dhabi & Dubai Meetup #6 - Ask Pawan Anything](https://www.youtube.com/watch?v=htXh_-t8QjY&t=1988s&ab_channel=Codepur)
-Co-organized and participated as a panelist in our first online meetup where we hosted one of the most influential Flutter and Dart Google Develop Experts, [Pawan (@imthepk)](https://twitter.com/imthepk) from India, answering questions** from the community and helping their Flutter learning journey.
+Co-organized and participated as a panelist in our first online meetup where we hosted one of the most influential Flutter and Dart Google Develop Experts, [Pawan (@imthepk)](https://twitter.com/imthepk) from India, answering questions from the community and helping their Flutter learning journey.
 - [Video recording](https://www.youtube.com/watch?v=htXh_-t8QjY&t=1988s&ab_channel=Codepur)
 - Impact: **1.6k+** online views
 <p align="center">
