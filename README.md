@@ -50,7 +50,7 @@ The topic generated a lot of discussion, and my talk was [**referenced** in the 
 </p>
 
 #### 2023.12.09 -  Flutter Conf India 23 - [The Joy of Functional Programming in Dart](https://flutterconf.in/home)
-At Flutter Conf India 23, I had the opportunity as a speaker to share my knowledge on functional programming in Dart with more than **650+ attendees**.
+At [Flutter Conf India 23](https://flutterconf.in/), I had the opportunity as a speaker to share my knowledge on functional programming in Dart with more than **650+ attendees**.
 After my talk, I received a lot of questions and feedback, which I [could pass on further to Sandro Maglione](https://x.com/GerfalconVogel/status/1735712341575045486?s=20), the creator of [fpdart](https://pub.dev/packages/fpdart), to create a feedback loop between him & the community.
 - Video recording (soon)
 - [Slides (Drive)](https://docs.google.com/presentation/d/14Bd6FRcgr21yefIt13DLZ8zSOlOJiLyG/edit?usp=drive_link )
