@@ -44,10 +44,11 @@ Recently, we convinced the University to make the materials open source, and I a
   #### 2023.07.09 - Fluttercon Berlin 23 - [The Joy of Functional Programming in Dart](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/)
 At [Fluttercon 23](https://fluttercon.dev/), with over **1000+ developers and 75 talks and workshops over 3 days**, I had the chance to showcase how Dart, our favorite language, supports functional programming.
 The topic generated a lot of discussion, and my talk was [**referenced** in the official Dart team's **Dart v3.1 retrospective**](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda).
-- [Video recording](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/)
+- [Video recording (droidcon/fluttercon)](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/)
+- [Video recording (my YouTube channel)](https://www.youtube.com/watch?v=7eQ3eAyq8pQ&t=389s&ab_channel=CsongorVogel)
 - [Slides (Speaker Deck)](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23)
 - [Code samples](https://github.com/gerfalcon/fp_playground)
-- Impact: **100+** people attended, **350+** online views
+- Impact: **100+** people attended,   **600+** online views  (**350+** on the fluttercon site and **250+** on my YouTube channel) 
 
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/897fc049-8ad8-413b-99a0-9438cdb5fbfb" alt="drawing" width="300"/>
