@@ -48,7 +48,7 @@ The topic generated a lot of discussion, and my talk was [**referenced** in the 
 - [Video recording (my YouTube channel)](https://www.youtube.com/watch?v=7eQ3eAyq8pQ&t=389s&ab_channel=CsongorVogel)
 - [Slides (Speaker Deck)](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23)
 - [Code samples](https://github.com/gerfalcon/fp_playground)
-- Impact: **100+** people attended,   **650+** online views  (**350+** on the fluttercon site and **300+** on my YouTube channel) 
+- Impact: **100+** people attended,   **740+** online views  (**350+** on the fluttercon site and **390+** on my YouTube channel) 
 
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/897fc049-8ad8-413b-99a0-9438cdb5fbfb" alt="drawing" width="300"/>
@@ -143,7 +143,7 @@ In the first-ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/res
 - [Slides (Speaker Deck)](https://speakerdeck.com/gerfalcon/flutter-at-world-expo-2020-dubai)
 - [Meetup link](https://www.meetup.com/flutter-ad/events/288648552/)
 - [Social announcement](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
-- Impact: 65+ people attended
+- Impact: **65+** people attended, **75+** online views
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8e845c6b-d18c-4889-87e9-e03052d8d9f7" width="300" alt=""/>
 </p>
