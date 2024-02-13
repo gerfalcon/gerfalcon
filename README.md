@@ -48,7 +48,7 @@ The topic generated a lot of discussion, and my talk was [**referenced** in the 
 - [Video recording (my YouTube channel)](https://www.youtube.com/watch?v=7eQ3eAyq8pQ&t=389s&ab_channel=CsongorVogel)
 - [Slides (Speaker Deck)](https://speakerdeck.com/gerfalcon/the-joy-of-functional-programming-in-dart-number-ftcon23)
 - [Code samples](https://github.com/gerfalcon/fp_playground)
-- Impact: **100+** people attended,   **740+** online views  (**350+** on the fluttercon site and **390+** on my YouTube channel) 
+- Impact: **100+** people attended,   **850+** online views  (**350+** on the fluttercon site and **500+** on my YouTube channel) 
 
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/897fc049-8ad8-413b-99a0-9438cdb5fbfb" alt="drawing" width="300"/>
