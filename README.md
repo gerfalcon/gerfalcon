@@ -9,7 +9,7 @@
   </a>
 </p>
 
-#### I'm a Dubai-based Hungarian Senior Mobile Engineer leading the Flutter migration at [@Talabat](https://github.com/talabat-dhme), the largest food delivery app (_with 2+ million daily users_) in the Middle East. 
+#### I'm a Dubai-based Hungarian Staff Mobile Software Engineer leading the Flutter migration at [@Talabat](https://github.com/talabat-dhme), the largest food delivery app (_with 2+ million daily users_) in the Middle East. 
 #### In my current role, I’m responsible for mentoring over 50 mobile engineers at the chapter level, enabling them to transition to Flutter, architecting the core of our Flutter codebase, and identifying Flutter talent globally for the company.
 
 #### Additionally, I co-organize the [Flutter Abu Dhabi and Dubai](https://www.meetup.com/flutter-ad/) community. 💙🇦🇪
