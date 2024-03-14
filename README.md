@@ -41,6 +41,16 @@ Recently, we convinced the University to make the materials open source, and I a
 <details open>
   <summary><h2>🌍 Conferences ⏬</h2></summary>
 
+  #### [Coming soon] - [Flutter MENA](https://fluttermena.com/)
+  Co-organizer and speaker at the first online Flutter conference in the MENA region
+  - [X - @flutter_mena](https://x.com/flutter_mena)
+  - [Youtube - @FlutterMENA](https://youtube.com/@FlutterMENA)
+  - [Instagram - @flutter_mena](https://instagram.com/flutter_mena)
+
+<p align="center">
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/15ecfb6e-eb60-42f5-b97e-893d934fc6e4" alt="drawing" width="300"/>
+</p>    
+
   #### 2023.07.09 - Fluttercon Berlin 23 - [The Joy of Functional Programming in Dart](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/)
 At [Fluttercon 23](https://fluttercon.dev/), with over **1000+ developers and 75 talks and workshops over 3 days**, I had the chance to showcase how Dart, our favorite language, supports functional programming.
 The topic generated a lot of discussion, and my talk was [**referenced** in the official Dart team's **Dart v3.1 retrospective**](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda).
