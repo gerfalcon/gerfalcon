@@ -42,7 +42,7 @@ Recently, we convinced the University to make the materials open source, and I a
   <summary><h2>🌍 Conferences ⏬</h2></summary>
 
   #### 2024.07.05 - Fluttercon Berlin 24 - [Migrating 2+ Million Daily Users to Flutter with 50+ Engineers]([https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/](https://fluttercon.dev/csongor-vogel/))
-What an honor to share our #Flutter migration journey at [Fluttercon 24](https://fluttercon.dev/), in Berlin alongside other amazing talks!
+What an honor to share [talabat](https://www.talabat.com/uae)'s #Flutter migration journey at [Fluttercon 24](https://fluttercon.dev/), in Berlin alongside other amazing talks!
 We covered our strategic add-to-app approach, key challenges, and how we empowered 50+ mobile engineers. We emphasized fostering a culture of education, setting clear quality standards, investing in the developer experience, and how experimentation helped us roll out our Flutter screens while millions of users continued to use our app.
 We hope our insights and lessons prove Flutter’s enterprise viability and inspire others to transition to Flutter.
 
