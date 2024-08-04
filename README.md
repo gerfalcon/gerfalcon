@@ -35,21 +35,32 @@ Recently, we convinced the University to make the materials open source, and I a
   - [Chapter 10: Firebase](https://youtu.be/wu5HdeJz-8A?si=aFfobI3Rq-qitQ_1)
   - [Chapter 11: Platform-specific APIs and Testing](https://www.youtube.com/watch?v=Z3Z4X6Z3Z4w&ab_channel=VikBME)
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/d1af4729-613f-4275-80bd-06e1647fd220" alt="drawing" width="300"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/d1af4729-613f-4275-80bd-06e1647fd220" alt="drawing" width="600"/>
 </p>
 
 <details open>
   <summary><h2>🌍 Conferences ⏬</h2></summary>
 
-  #### [Coming soon] - [Flutter MENA](https://fluttermena.com/)
+  #### 2024.07.05 - Fluttercon Berlin 24 - [Migrating 2+ Million Daily Users to Flutter with 50+ Engineers]([https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/](https://fluttercon.dev/csongor-vogel/))
+What an honor to share our #Flutter migration journey at [Fluttercon 24](https://fluttercon.dev/), in Berlin alongside other amazing talks!
+We covered our strategic add-to-app approach, key challenges, and how we empowered 50+ mobile engineers. We emphasized fostering a culture of education, setting clear quality standards, investing in the developer experience, and how experimentation helped us roll out our Flutter screens while millions of users continued to use our app.
+We hope our insights and lessons prove Flutter’s enterprise viability and inspire others to transition to Flutter.
+
+- Video recording (Coming soon)
+- Slides (Coming soon)
+- Impact: **300+** people attended 
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ad655ff0-7522-4dc4-94cf-6ba4c36f5e0b" alt="drawing" width="600"/>
+</p>    
+
+
+  ####  [Flutter MENA](https://fluttermena.com/)
   Co-organizer and speaker at the first online Flutter conference in the MENA region
   - [X - @flutter_mena](https://x.com/flutter_mena)
   - [Youtube - @FlutterMENA](https://youtube.com/@FlutterMENA)
   - [Instagram - @flutter_mena](https://instagram.com/flutter_mena)
 
-<p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/15ecfb6e-eb60-42f5-b97e-893d934fc6e4" alt="drawing" width="300"/>
-</p>    
 
   #### 2023.07.09 - Fluttercon Berlin 23 - [The Joy of Functional Programming in Dart](https://www.droidcon.com/2023/08/07/the-joy-of-functional-programming-in-dart/)
 At [Fluttercon 23](https://fluttercon.dev/), with over **1000+ developers and 75 talks and workshops over 3 days**, I had the chance to showcase how Dart, our favorite language, supports functional programming.
@@ -61,7 +72,7 @@ The topic generated a lot of discussion, and my talk was [**referenced** in the 
 - Impact: **100+** people attended,   **950+** online views  (**350+** on the fluttercon site and **600+** on my YouTube channel) 
 
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/897fc049-8ad8-413b-99a0-9438cdb5fbfb" alt="drawing" width="300"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/897fc049-8ad8-413b-99a0-9438cdb5fbfb" alt="drawing" width="600"/>
 </p>
 
 #### 2023.12.09 -  Flutter Conf India 23 - [The Joy of Functional Programming in Dart](https://flutterconf.in/home)
@@ -73,7 +84,7 @@ After my talk, I received a lot of questions and feedback, which I [could pass o
 - Impact: **650+** people attended
 
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/ed9c41ce-bdab-4b19-a15f-7c6b0e6aad7e" alt="drawing" width="300"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/ed9c41ce-bdab-4b19-a15f-7c6b0e6aad7e" alt="drawing" width="600"/>
 </p>
 </details>
 
@@ -90,7 +101,7 @@ I attended as a speaker at the Flutter edition talabat TECHTALK meetup in Cairo,
 - Impact: **50+** people attended (150+ registered), **30+** online views in Live
 
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/d0db18b2-823c-4cb1-a475-c4731e4f8fce" alt="drawing" width="300"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/d0db18b2-823c-4cb1-a475-c4731e4f8fce" alt="drawing" width="600"/>
 </p>
 
 
@@ -101,7 +112,7 @@ I was a **panelist** in a Hungarian [Flutter Budapest meetup](https://www.meetup
 - [Social announcement](https://www.linkedin.com/feed/update/urn:li:activity:7123691461803397120/?updateEntityUrn=urn:li:fs_feedUpdate:(V2,urn:li:activity:7123691461803397120))
 - Impact: **50+** people attended, **280+** online views
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/6487ab06-a0a4-42d1-98a1-66f402c039f9" alt="drawing" width="300"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/6487ab06-a0a4-42d1-98a1-66f402c039f9" alt="drawing" width="600"/>
 </p>
 
 
@@ -110,7 +121,7 @@ Co-organized and participated as a panelist in our first online meetup where we 
 - [Video recording](https://www.youtube.com/watch?v=htXh_-t8QjY&t=1988s&ab_channel=Codepur)
 - Impact: **1.6k+** online views
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/871d2cd3-e920-4036-b03b-4526c349b977" alt="drawing" width="300"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/871d2cd3-e920-4036-b03b-4526c349b977" alt="drawing" width="600"/>
 </p>
 
 #### 2023.08.11 [Giving a workshop in Flutter Abu Dhabi & Dubai Meetup #5 at Wio bank](https://youtu.be/yo3rqk2jg8U?t=8062)
@@ -121,7 +132,7 @@ I co-organized an event with over 60+ participants and conducted a workshop on s
 - [Social announcement](https://www.linkedin.com/posts/csongorvogel_dear-flutter-enthusiasts-the-flutter-activity-7098579977952014336-5dnz?utm_source=share&utm_medium=member_desktop)
 - Impact: **60+** people attended, **460+** online views
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/533ff2e2-674b-4f68-aff9-d714eff1b15d" alt="drawing" width="300"/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/533ff2e2-674b-4f68-aff9-d714eff1b15d" alt="drawing" width="600"/>
 </p>
 
 #### 2023.06.03 [Keynote: Embedding Flutter](https://www.linkedin.com/posts/flutter-ad_flutteruae-activity-7069350020067508224-Wt-6?utm_source=share&utm_medium=member_desktop)  in Flutter Abu Dhabi & Dubai Meetup #4 at talabat
@@ -133,7 +144,7 @@ I had the opportunity to kick off the event with my keynote on integrating Flutt
 - [Social announcement](https://www.linkedin.com/feed/update/urn:li:activity:7071882182151012353/)
 - Impact: **110+** people attended (_150 registered attendees with 70+ waiting list_)
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/52ca380f-e58e-47e9-9d31-8a1a02c97362" width="300" alt=""/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/52ca380f-e58e-47e9-9d31-8a1a02c97362" width="600" alt=""/>
 </p>
 
 
@@ -146,7 +157,7 @@ During the workshop, I covered topics like synchronous and asynchronous programm
 - [Slides (Speaker Deck)](https://speakerdeck.com/gerfalcon/flutter-introduction)
 - Impact: **80+** people trained
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/0cd6806d-a441-47d9-a8a4-6b15d9938085" width="300" alt=""/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/0cd6806d-a441-47d9-a8a4-6b15d9938085" width="600" alt=""/>
 </p>
 
 #### 2023.02.25 [Giving a technical quiz game activity in Flutter Forward Extended meetup at Innovaccer](https://www.linkedin.com/posts/flutter-ad_we-still-cant-get-over-how-great-yesterdays-activity-7035605328784207872-5ebD?utm_source=share&utm_medium=member_desktop)
@@ -156,7 +167,7 @@ I co-organized this event for the Flutter Abu Dhabi and Dubai community by colla
 - [Social announcement](https://www.linkedin.com/posts/flutter-ad_we-still-cant-get-over-how-great-yesterdays-activity-7035605328784207872-5ebD?utm_source=share&utm_medium=member_desktop)
 - Impact: **50+** people attended
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/46967774-7ebc-4ecd-83de-c1f740058e8b" width="300" alt=""/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/46967774-7ebc-4ecd-83de-c1f740058e8b" width="600" alt=""/>
 </p>
 
 #### 2022.10.22 [Flutter at World Expo 2020 Dubai](https://youtu.be/37IL2cRdQwc)
@@ -168,7 +179,7 @@ In the first-ever [Dubai Flutter UAE meetup](https://www.linkedin.com/search/res
 - [Social announcement](https://www.linkedin.com/feed/update/urn:li:activity:6985281908096004097/)
 - Impact: **65+** people attended, **75+** online views
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8e845c6b-d18c-4889-87e9-e03052d8d9f7" width="300" alt=""/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8e845c6b-d18c-4889-87e9-e03052d8d9f7" width="600" alt=""/>
 </p>
 
 #### 2022.05.26 [Say Hi to Flutter 3](https://www.youtube.com/watch?v=cqMJhWSlEAw&t=3s&ab_channel=HWSW)
@@ -179,7 +190,7 @@ I presented at a Hungarian online meetup, "_HELLO FLUTTER_" which was dedicated 
 - [Meetup link](https://rendezveny.hwsw.hu/free/74/flutter-mobil-web-fejlesztes-meetup/)
 - Impact: **1000+** online views
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/6eea698c-9f20-4a5c-a443-7a371a1d371a" width="300" alt=""/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/6eea698c-9f20-4a5c-a443-7a371a1d371a" width="600" alt=""/>
 </p>
 
 #### 2021.12.08 [How to make your Flutter app accessible](https://youtu.be/VmB_KLk28f8?t=5)
@@ -192,7 +203,7 @@ I presented this project during my talk on "How to make your Flutter app accessi
 - [Meetup link](https://rendezveny.hwsw.hu/free/74/flutter-mobil-web-fejlesztes-meetup/)
 - Impact: **1250+** online views
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/b6dcbfc9-8a6f-4cd5-9392-86ea8234e9c4" width="300" alt=""/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/b6dcbfc9-8a6f-4cd5-9392-86ea8234e9c4" width="600" alt=""/>
 </p>
 
 #### 2021.11.29 [Hey Google, Flutter Web or Angular?](https://youtu.be/KzNtY_dtYSg)
@@ -203,7 +214,7 @@ During an online meetup for web developers, I convinced the organizers to includ
 - [Article](https://www.ffnext.io/blog/flutter-web-vs-angular-a-comprehensive-analysis-of-what-to-use-in-2022)
 - Impact: **3600+** online views
 <p align="center">
-<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/7b93eb3b-7b8d-426d-9a74-13f3ac83da3d" width="300" alt=""/>
+<img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/7b93eb3b-7b8d-426d-9a74-13f3ac83da3d" width="600" alt=""/>
 </p>
 
 #### 2021.08.10 [The future of Flutter](https://youtu.be/YV5csJu-8qk?t=303)
@@ -212,7 +223,7 @@ The webinar - organized by Webuni - was held with the assistance of acknowledged
 - [Video recording](https://youtu.be/YV5csJu-8qk?t=303)
 - Impact: **600+** online views
 <p align="center">
-<img width="300" alt="The future of Flutter" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8503f350-8c89-40d6-b0ee-bd8e06fe740b">
+<img width="600" alt="The future of Flutter" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/8503f350-8c89-40d6-b0ee-bd8e06fe740b">
 </p>
 
 ####  2021.10.07 [Native versus cross-platform development](https://youtu.be/uMzdXnu0lyQ?t=111)
@@ -223,7 +234,7 @@ I represented Flutter in this debate, while an iOS engineer and a product owner 
 - [Podcast link](https://open.spotify.com/episode/2qg84ZMFF299QqQk1TPni0?si=1cbd0a7f487b4954)
 - Impact: **330+** online views
 <p align="center">
-<img width="300" alt="Native versus cross-platform development" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/4b4b6e77-3316-4f60-9edb-e80c2d3094bc">
+<img width="600" alt="Native versus cross-platform development" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/4b4b6e77-3316-4f60-9edb-e80c2d3094bc">
 </p>
 
 </details>
