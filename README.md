@@ -46,9 +46,8 @@ What an honor to share [talabat](https://www.talabat.com/uae)'s #Flutter migrati
 We covered our strategic add-to-app approach, key challenges, and how we empowered 50+ mobile engineers. We emphasized fostering a culture of education, setting clear quality standards, investing in the developer experience, and how experimentation helped us roll out our Flutter screens while millions of users continued to use our app.
 We hope our insights and lessons prove Flutter’s enterprise viability and inspire others to transition to Flutter.
 
-- Video recording (Coming soon)
+- [Video recording](https://www.droidcon.com/2024/09/03/migrating-2-million-daily-users-to-flutter-with-50-engineers/)
 - [Abstract](https://fluttercon.dev/csongor-vogel/)
-- Slides (Coming soon)
 - Impact: **300+** people attended 
 
 <p align="center">
