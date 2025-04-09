@@ -10,7 +10,7 @@
 </p>
 
 #### I'm a Dubai-based Hungarian Google Developer Expert for Flutter & Dart working as a Staff Mobile Software Engineer leading the Flutter migration at [@Talabat](https://github.com/talabat-dhme), the largest food delivery app (_with 2+ million daily users_) in the Middle East. 
-#### In my current role, I’m responsible for mentoring over 50 mobile engineers at the chapter level, enabling them to transition to Flutter, architecting the core of our Flutter codebase, and identifying Flutter talent globally for the company.
+#### In my current role, I’m responsible for mentoring over 50 mobile engineers at the chapter level, enabling them to work in Flutter, architecting the core of our Flutter codebase, and identifying Flutter talent globally for the company.
 
 #### Additionally, I co-organize the [Flutter Abu Dhabi and Dubai](https://www.meetup.com/flutter-ad/) community. 💙🇦🇪
 #### I enjoy sharing my knowledge by mentoring developers, speaking at conferences and meetups, and teaching students in Hungary's first [Flutter University class](https://github.com/bmeaut/VIAUAV45).
