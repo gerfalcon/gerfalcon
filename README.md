@@ -49,7 +49,7 @@ Inspired by Marie Kondo’s KonMari Method, in this talk, we explored organizing
 - Impact: **150+** people attended 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ad655ff0-7522-4dc4-94cf-6ba4c36f5e0b" alt="drawing" width="600"/>
+<img src="https://github.com/user-attachments/assets/ad6dc150-6aa1-4f62-af35-9b189f54609e" alt="drawing" width="600"/>
 </p>   
   
   #### 2024.07.05 - Fluttercon Berlin 24 - [Migrating 2+ Million Daily Users to Flutter with 50+ Engineers](https://fluttercon.dev/csongor-vogel/)
