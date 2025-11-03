@@ -253,7 +253,26 @@ I represented Flutter in this debate, while an iOS engineer and a product owner 
 
 <details open>
   <summary><h2>📝 Publications ⏬</h2></summary>
-  
+
+#### 2025.07.01 [Using Gemma for Flutter apps: First steps with on-device AI in Flutter using flutter_gemma package](https://medium.com/@vogelcsongorbenedek/using-gemma-for-flutter-apps-91f746e3347c)
+This article explores using Google's Gemma 3N, a lightweight, open-source AI model, in Flutter applications for on-device AI capabilities.
+It details how to integrate Gemma using the flutter_gemma package, focusing on offline functionality, enhanced privacy, and eliminating server costs.
+The article provides a step-by-step guide to building an offline menu translator app, covering model downloading, chat instance creation, and response generation.
+
+- [Article](https://medium.com/@vogelcsongorbenedek/using-gemma-for-flutter-apps-91f746e3347c)
+<p align="center">
+<img width="500" alt="Using Gemma for Flutter apps" src="https://github.com/user-attachments/assets/9335d10a-032e-4c0f-a2ce-65fb5d50cb05">
+</p>
+
+
+#### 2021.08.18 [What is Flutter and why is it a great tool for developers?](https://www.ffnext.io/blog/what-is-flutter-and-why-is-it-a-great-tool-for-developers)
+In this article, I gathered with my Flutter developer colleagues what we love about Flutter. 
+- [Article](https://www.ffnext.io/blog/what-is-flutter-and-why-is-it-a-great-tool-for-developers)
+<p align="center">
+<img width="500" alt="What is Flutter and why is it a great tool for developer" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/9e12d5c2-410f-4764-b27d-513f39a4f33f">
+</p>
+
+
 ####  2022.01 [The status of Flutter technology in the financial sector](https://www.ffnext.io/blog/the-status-of-flutter-technology-in-the-financial-sector)
 I could contribute as a technical writer to the first edition of Fintech Sparks! Online newspaper.
 In my article, I tackled the buzzing topic of Flutter and a leading neobank, Nubank.
@@ -272,13 +291,6 @@ who are wondering where to head in 2022 in the seemingly endless maze of creatin
 - [Article](https://www.ffnext.io/blog/flutter-web-vs-angular-a-comprehensive-analysis-of-what-to-use-in-2022)
 <p align="center">
 <img width="500" alt="Flutter Web vs. Angular" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/34dc8aef-601b-4ab3-9de1-d5b0b194ea44">
-</p>
-
-#### 2021.08.18 [What is Flutter and why is it a great tool for developers?](https://www.ffnext.io/blog/what-is-flutter-and-why-is-it-a-great-tool-for-developers)
-In this article, I gathered with my Flutter developer colleagues what we love about Flutter. 
-- [Article](https://www.ffnext.io/blog/what-is-flutter-and-why-is-it-a-great-tool-for-developers)
-<p align="center">
-<img width="500" alt="What is Flutter and why is it a great tool for developer" src="https://github.com/gerfalcon/gerfalcon/assets/15221068/9e12d5c2-410f-4764-b27d-513f39a4f33f">
 </p>
 
 </details>
