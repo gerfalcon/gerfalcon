@@ -41,6 +41,17 @@ Recently, we convinced the University to make the materials open source, and I a
 <details open>
   <summary><h2>🌍 Conferences ⏬</h2></summary>
 
+  #### 2024.05.29 - FlutterNinja Tokyo 25 - [KonMari your Flutter code using DCM](https://flutterninjas.dev/)
+As Flutter projects scale, code clutter increases: unused files, oversized widgets, and spaghetti dependencies slow down development. What if we could organize our codebase like we tidy our homes?
+Inspired by Marie Kondo’s KonMari Method, in this talk, we explored organizing and maintaining Flutter codebases using DCM (Design Code Metrics).
+
+- [Video recording](https://www.youtube.com/watch?v=xqMfyShtEig&list=PLVvsHB5XU7VqSaxEEK6hpfAcyDU0Tb0gk)
+- Impact: **150+** people attended 
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ad655ff0-7522-4dc4-94cf-6ba4c36f5e0b" alt="drawing" width="600"/>
+</p>   
+  
   #### 2024.07.05 - Fluttercon Berlin 24 - [Migrating 2+ Million Daily Users to Flutter with 50+ Engineers](https://fluttercon.dev/csongor-vogel/)
 What an honor to share [talabat](https://www.talabat.com/uae)'s #Flutter migration journey at [Fluttercon 24](https://fluttercon.dev/), in Berlin alongside other amazing talks!
 We covered our strategic add-to-app approach, key challenges, and how we empowered 50+ mobile engineers. We emphasized fostering a culture of education, setting clear quality standards, investing in the developer experience, and how experimentation helped us roll out our Flutter screens while millions of users continued to use our app.
