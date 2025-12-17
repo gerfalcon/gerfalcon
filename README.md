@@ -34,6 +34,16 @@ Recently, we convinced the University to make the materials open source, and I a
 <details open>
   <summary><h2>🌍 Conferences ⏬</h2></summary>
 
+  #### 2025.12.15 - Devfest Dubai 2025/Mobile Developers Week (Droidcon/Gov AI Summit) - [Code and Deploy Anything with Gemini CLI](https://mobiledevelopersweek.com/)
+The 90-minute session (originally planned as a workshop) focused on the Gemini CLI and was held at the Mobile Developers Week (droidCon Abu Dhabi & Gov: AI Summit) in Abu Dhabi. The event brought together 60+ talented experts and 1,000 attendees from around the world.
+
+- Video recording (Coming soon)
+- Impact: **50+** participants trained 
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ffac964c-1f61-40ca-ac97-f0c8ce6e0526" alt="DevFest Dubai - MDW 2025" width="600"/>
+</p>   
+  
   #### 2025.12.13 - 3k Developers Initiative - [Code and Deploy Anything with Gemini CLI](https://cloudonair.withgoogle.com/events/three-thousand-dev-initiative)
 The 2-hour hands-on workshop focused on using the Gemini CLI, where participants learned to code and deploy with it and explored topics such as MCPs and Extensions. Additionally, we also reviewed the latest updates on session management.
 The workshop was part of the 3000 Developers Initiative, a program designed to empower and upskill 3000 Saudi developers and tech enthusiasts.
