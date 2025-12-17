@@ -127,7 +127,7 @@ After my talk, I received a lot of questions and feedback, which I [could pass o
 
 
 <details open>
-  <summary><h2>🗣️ Meetups & Workshops ⏬</h2></summary>
+  <summary><h2>🗣️ Meetups ⏬</h2></summary>
   
 #### 2024.03.05 [TECHTALK: Get Big, Get Fast: Flutter at Large Scale](https://www.linkedin.com/events/talabattechtalk-theflutterediti7167871383404843008/comments/) 
 I attended as a speaker at the Flutter edition talabat TECHTALK meetup in Cairo, Egypt, with over 50+ participants, where I shared the story of the biggest POC we ever built using Flutter, which proved that Flutter could offer a good experience for the **24 million visitors** of the [World Expo 2020 Dubai](https://www.expo2020dubai.com/) and ensured that we could build our future on top of it. Besides that, I was also one of the panelists of a live Q&A, AKA Fishbowl, where we answered over 40+ questions related to Flutter from the participants.
