@@ -25,14 +25,10 @@ My current focus is on integrating AI solutions across the entire Software Devel
 ##### gerfalcon.vogel@gmail.com
 
 ## 🎓 Flutter University class in Hungary 
-In 2020, I co-created Hungary's first [Flutter University class](https://github.com/bmeaut/VIAUAV45) at the [Budapest University of Technology and Economics](https://www.bme.hu/?language=en). At present, I’m still lecturing and have taught over **750+** computer software engineering students in **6 semesters**, providing them with a strong foundation to start their careers in Dart and Flutter. 💙
+In 2020, I co-created Hungary's first [Flutter University class](https://github.com/bmeaut/VIAUAV45) at the [Budapest University of Technology and Economics](https://www.bme.hu/?language=en). At present, I’m still lecturing and have taught over **750+** computer software engineering students in **9 semesters**, providing them with a strong foundation to start their careers in Dart and Flutter. 💙
 Recently, we convinced the University to make the materials open source, and I aim to keep improving and sharing them with the wider community.
 - [GitHub - University Material for the Flutter-based Software Development subject](https://github.com/bmeaut/VIAUAV45)
-- Impact: **750+** people trained
-- Video recordings from 2022:
-  - [Chapter 04: Accessibility, Responsive UI](https://youtu.be/mLBj6zqzRdw?si=gdTAt5m0IXfPY3M2)
-  - [Chapter 10: Firebase](https://youtu.be/wu5HdeJz-8A?si=aFfobI3Rq-qitQ_1)
-  - [Chapter 11: Platform-specific APIs and Testing](https://www.youtube.com/watch?v=Z3Z4X6Z3Z4w&ab_channel=VikBME)
+- Impact: **800+** people trained
 <p align="center">
 <img src="https://github.com/gerfalcon/gerfalcon/assets/15221068/d1af4729-613f-4275-80bd-06e1647fd220" alt="drawing" width="600"/>
 </p>
