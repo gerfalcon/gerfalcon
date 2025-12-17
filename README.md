@@ -40,6 +40,39 @@ Recently, we convinced the University to make the materials open source, and I a
 <details open>
   <summary><h2>🌍 Conferences ⏬</h2></summary>
 
+  #### 2025.12.13 - 3k Developers Initiative - [Code and Deploy Anything with Gemini CLI](https://cloudonair.withgoogle.com/events/three-thousand-dev-initiative)
+The 2-hour hands-on workshop focused on using the Gemini CLI, where participants learned to code and deploy with it and explored topics such as MCPs and Extensions. Additionally, we also reviewed the latest updates on session management.
+The workshop was part of the 3000 Developers Initiative, a program designed to empower and upskill 3000 Saudi developers and tech enthusiasts.
+
+- [Workshop link]([https://docs.google.com/document/d/1hRYIGLD4ZkFzMzyvUjzfEqZiBxrLLSr9NLGdtLtx0ho/edit?usp=sharing](https://cloudonair.withgoogle.com/events/three-thousand-dev-initiative))
+- Impact: **30+** people trained 
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8bee5fda-4cf5-4607-9a16-044ae09d3d8f" alt="drawing" width="600"/>
+</p>   
+
+  
+  #### 2025.11.30 - DevFest Taipei 2025 - [Code and Deploy Anything with Gemini CLI](https://devfest-taipei.gdg.tw/2025/sessions/)
+The 90-minute hands-on workshop focused on using the Gemini CLI, where participants learned how to apply it to various tasks, including using main and creating custom commands, applying built-in features, orchestrating files in local workspaces with tools, and using Extensions. Additionally, as a bonus task, they learned to deploy a quiz website about the Gemini CLI on Google Cloud.
+
+- [Workshop link](https://docs.google.com/document/d/1hRYIGLD4ZkFzMzyvUjzfEqZiBxrLLSr9NLGdtLtx0ho/edit?usp=sharing)
+- [Gemini CLI Cheat Sheet](https://drive.google.com/file/d/1iHTQJ_7FSwollphGbmeq5J54WTujtfhZ/view?usp=sharing) (created by Nano Banana Pro)
+- Impact: **80+** people trained 
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/58bef67f-6687-4eaa-88f3-fb9e43efca77" alt="drawing" width="600"/>
+</p>   
+
+  #### 2025.11.16 - DevFest UAE 2025 - [Code and Deploy Anything with Gemini CLI](https://gdg.community.dev/events/details/google-gdg-sharjah-presents-devfest-uae-2025-1/)
+The 90-minute hands-on workshop was held at Zayed University in Dubai and focused on the first steps and the use of the Gemini CLI.
+
+- [Workshop link](https://csongor-aiworkshop.com/gemini-cli-steps)
+- Impact: **60+** people trained 
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/eb511404-4028-4ef9-82c5-33341caae190" alt="devfest_uae_2025" width="600"/>
+</p>   
+
   #### 2024.05.29 - FlutterNinja Tokyo 25 - [KonMari your Flutter code using DCM](https://flutterninjas.dev/)
 As Flutter projects scale, code clutter increases: unused files, oversized widgets, and spaghetti dependencies slow down development. What if we could organize our codebase like we tidy our homes?
 Inspired by Marie Kondo’s KonMari Method, in this talk, we explored organizing and maintaining Flutter codebases using DCM (Design Code Metrics).
