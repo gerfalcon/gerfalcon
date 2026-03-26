@@ -11,7 +11,7 @@
 
 Staff Software Engineer at [talabat](https://corporate.talabat.com/) (part of Delivery Hero) and a Google Developer Expert in Flutter & Dart. Based in Dubai and originally from Hungary, I am an engineering leader with a focus on mentorship, developer enablement, and helping startups adopt the right technologies to scale their engineering practices effectively.
 
-My current focus is on integrating AI solutions across the entire Software Developer Life Cycle (SDLC), building agentic workflows, and leading internal workshops on automation. I am passionate about sharing knowledge by speaking at conferences, organizing community meetups for [Flutter Abu Dhabi and Dubai](https://www.meetup.com/flutter-ad/), and teaching Hungary's first [Flutter University class](https://github.com/bmeaut/VIAUAV45).
+My current focus is on integrating AI solutions across the Software Development Life Cycle (SDLC), building agentic workflows, and leading internal workshops on automation and AI-assisted programming. I am passionate about sharing knowledge by speaking at conferences, organizing community meetups for [Flutter Abu Dhabi and Dubai](https://www.meetup.com/flutter-ad/), and teaching Hungary's first [Flutter University class](https://github.com/bmeaut/VIAUAV45).
 
 
 <h4 align="left">📫 Connect with me</h3>
